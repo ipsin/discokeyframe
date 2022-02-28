@@ -1,5 +1,5 @@
 # discokeyframe
-Manage your camera controls for Disco Diffusion v5 using a simple config file
+Manage your camera controls for [Disco Diffusion v5](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb) using a simple config file.
 
 ```
 # Comments start with #.
