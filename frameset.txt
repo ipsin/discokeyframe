@@ -36,14 +36,30 @@
 00550 C 0 0 0
 
 00600 P ["fantasy village in decay and collapse, trending on ArtStation"]
+00620 Z 1.04
+00640 Z 1.05
+00640 C 0.01 0 0
+00660 Z 1.06
 
 00680 P ["fantasy village, trending on ArtStation"]
+00680 Z 1.07
+00680 C -0.01 0 0
+00720 Z 1.08
 
 00750 P ["brightly colored fantasy village, trending on ArtStation"]
-00750 Z 1.05
+00750 Z 1.07
+00770 C 0 0.02 0
+00780 Z 1.06
+00810 Z 1.05
+00850 C 0 -0.02 0
 
 00900 P ["vibrant city street with traffic, trending on ArtStation"]
+00900 Z 1.04
+00900 C 0.04 0.04 0.04
+00975 C -0.04 -0.04 -0.04
 
 01050 P ["busy city street with traffic, trending on ArtStation"]
+01050 C 0 0 0.02
 
 01150 P ["city in decay and collapse, trending on ArtStation"]
+01150 C 0 0 -0.02
