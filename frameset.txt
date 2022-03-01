@@ -35,31 +35,47 @@
 00550 P ["Underwater bedroom by Raffaello Ossola, trending on ArtStation"]
 00550 C 0 0 0
 
-00600 P ["fantasy village in decay and collapse, trending on ArtStation"]
-00620 Z 1.04
-00640 Z 1.05
-00640 C 0.01 0 0
-00660 Z 1.06
+00615 P ["Underwater bedroom by Raffaello Ossola, trending on ArtStation", "brightly-colored-scene"]
+00630 C 0.02 0 0
+00645 P ["Underwater bedroom by Raffaello Ossola, trending on ArtStation"]
 
-00680 P ["fantasy village, trending on ArtStation"]
-00680 Z 1.07
-00680 C -0.01 0 0
-00720 Z 1.08
+00720 C -0.02 0 0
+00780 C -0.02 0.02 0
+00820 C -0.02 0 0
 
-00750 P ["brightly colored fantasy village, trending on ArtStation"]
-00750 Z 1.07
-00770 C 0 0.02 0
-00780 Z 1.06
-00810 Z 1.05
-00850 C 0 -0.02 0
+00860 P ["fantasy village in decay and collapse, trending on ArtStation"]
+00860 Z 1.05
+00860 C -0.01 0 0
+00950 C 0.02 0.01 0
 
-00900 P ["vibrant city street with traffic, trending on ArtStation"]
-00900 Z 1.04
-00900 C 0.04 0.04 0.04
-00975 C -0.04 -0.04 -0.04
+01000 P ["fantasy village, trending on ArtStation"]
+01000 C 0 -0.02 0
 
-01050 P ["busy city street with traffic, trending on ArtStation"]
-01050 C 0 0 0.02
+01030 P ["brightly colored fantasy village, trending on ArtStation"]
+01030 C 0.02 0 0
+01050 P ["fantasy village, trending on ArtStation"]
 
-01150 P ["city in decay and collapse, trending on ArtStation"]
-01150 C 0 0 -0.02
+01090 P ["brightly colored fantasy village, trending on ArtStation"]
+01090 C -0.02 0 0
+01110 P ["fantasy village, trending on ArtStation"]
+
+01140 P ["brightly colored fantasy village, trending on ArtStation"]
+01140 C 0.02 0.02 0
+01170 P ["fantasy village, trending on ArtStation"]
+01170 C 0 0 0
+
+01200 P ["brightly colored fantasy village, trending on ArtStation"]
+01200 Z 1.06
+
+01250 C 0.03 0 0
+01280 C 0.02 0 0
+01310 C 0.01 0 0
+01310 P ["brightly colored fantasy village, trending on ArtStation","bottles on a brick wall"]
+
+01350 P ["vibrant Tokyo city street with traffic, trending on ArtStation","brightly colored fantasy village, trending on ArtStation"]
+01350 Z 1.05
+01350 C 0 0 0
+
+01400 P ["vibrant Tokyo city street with traffic, trending on ArtStation"]
+01400 Z 1.04
+01400 C -0.02 -0.005 0
