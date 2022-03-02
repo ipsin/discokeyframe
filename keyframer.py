@@ -3,7 +3,7 @@
 import re
 import fileinput
 
-(tx, ty, tz) = (0, 0, 0)
+(tx, ty, tz) = (0, 0, 10)
 (cx, cy, cz) = (-1, -1, -1)
 zoom = -1 
 
@@ -76,7 +76,7 @@ for l in fileinput.input():
       ytrans_frames.append(f'{frame}:({ny})')
       ty = ny
     if nz != tz:
-      xtrans_frames.append(f'{frame}:({nz})')
+      ztrans_frames.append(f'{frame}:({nz})')
       tz = nz
   elif ' Z ' in l:
     (frame, nzoom) = read_zoom(l)
