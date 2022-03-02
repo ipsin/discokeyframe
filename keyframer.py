@@ -51,7 +51,9 @@ def read_prompt(input):
 
 
 for l in fileinput.input():
-  if ' P ' in l:
+  if l.startswith('#'):
+    pass
+  elif ' P ' in l:
     (frame, prompt) = read_prompt(l)
     prompts.append(f'  {frame}: {prompt}')
   elif ' C ' in l:
@@ -82,8 +84,8 @@ for l in fileinput.input():
       zoom_frames.append(f'{frame}:({nzoom})')
       zoom = nzoom
   else:
-    if l and l.startswith('#'):
-      print(f'Unknown command {l}')
+    if l:
+      print(f'Unknown command: {l}')
 
    
 
