@@ -1,0 +1,56 @@
+# https://archive.org/details/csr020/csr020_2-08_fortyone_-_theyre-on-the-moon-right-now.mp3
+# Total time 143 seconds, 1072 frames.
+
+00000 P ["Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00000 T 0 0 6
+
+00060 P ["waving American flags, 4k ultra HD photograph", "Apple Pie, 4k ultra HD protograph","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+
+00144 P ["reporter with microphone and television camera, 4k ultra HD photograph","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+
+00165 P ["NASA Cape Canaveral rocket launch, 4k ultra HD photograph","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+
+00225 P ["Astronaut in space suit, 4k ultra HD photograph","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+
+00300 P ["reporter with microphone, 4k ultra HD photograph", "Giant floating question marks, 4k ultra HD photograph:2","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00310 P ["reporter with microphone, 4k ultra HD photograph", "Giant floating question marks, 4k ultra HD photograph:1","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00320 P ["reporter with microphone, 4k ultra HD photograph", "Giant floating question marks, 4k ultra HD photograph:1","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+
+00383 P ["reporter with microphone, 4k ultra HD photograph", "Giant floating question marks, 4k ultra HD photograph:2","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00393 P ["reporter with microphone, 4k ultra HD photograph", "Giant floating question marks, 4k ultra HD photograph:1","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00403 P ["reporter with microphone, 4k ultra HD photograph", "Giant floating question marks, 4k ultra HD photograph:1","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+
+00420 P ["Weird creatures with pointed ears emerging from an egg-shaped spacecraft, 4k ultra HD photograph","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+
+00540 P ["Giant beetle:2", "Weird creatures with pointed ears emerging from an egg-shaped spacecraft, 4k ultra HD photograph","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00555 P ["Giant beetle:1", "Weird creatures with pointed ears emerging from an egg-shaped spacecraft, 4k ultra HD photograph","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00570 P ["Oblong, egg-shaped spaceship:2", "Weird creatures with pointed ears emerging from an egg-shaped spacecraft, 4k ultra HD photograph","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00577 P ["Oblong, egg-shaped spaceship:2", "blue color scheme:2", "Weird creatures with pointed ears emerging from an egg-shaped spacecraft, 4k ultra HD photograph","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00579 P ["Oblong, egg-shaped spaceship:2", "white color scheme:1", "Weird creatures with pointed ears emerging from an egg-shaped spacecraft, 4k ultra HD photograph","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00581 P ["Oblong, egg-shaped spaceship:2", "blue color scheme:2", "Weird creatures with pointed ears emerging from an egg-shaped spacecraft, 4k ultra HD photograph","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00615 P ["Oblong, egg-shaped spaceship, 4k ultra HD photograph", "Three alien creatures with pointed ears emerging from an egg-shaped spacecraft, 4k ultra HD photograph","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+
+00653 P ["Giant red crab claws, 4k ultra HD photograph:3", "Three alien creatures with pointed ears emerging from an egg-shaped spacecraft, 4k ultra HD photograph","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00660 P ["Giant red crab claws, 4k ultra HD photograph:2", "Three alien creatures with pointed ears emerging from an egg-shaped spacecraft, 4k ultra HD photograph","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00667 P ["Giant red crab claws, 4k ultra HD photograph:1", "Three alien creatures with pointed ears emerging from an egg-shaped spacecraft, 4k ultra HD photograph","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+
+00675 P ["Floating mathematical equations and symbols, 4k ultra HD photograph:3", "Three alien creatures with pointed ears emerging from an egg-shaped spacecraft, 4k ultra HD photograph","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00682 P ["Floating mathematical equations and symbols, 4k ultra HD photograph:2", "Three alien creatures with pointed ears emerging from an egg-shaped spacecraft, 4k ultra HD photograph","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00689 P ["Floating mathematical equations and symbols, 4k ultra HD photograph:1", "Three alien creatures with pointed ears emerging from an egg-shaped spacecraft, 4k ultra HD photograph","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00697 P ["Giant red crab claws, 4k ultra HD photograph:2", "Floating mathematical equations and symbols, 4k ultra HD photograph:1", "Three alien creatures with pointed ears emerging from an egg-shaped spacecraft, 4k ultra HD photograph","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+
+00750 P ["Human brain, chalkboard and mortarboard, 4k ultra HD photograph:1","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00772 P ["1950s science fiction robot and mechanical man, 4k ultra HD photograph:1","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+
+00817 P ["A large collection of shotguns and shotgun shells and handguns:5", "1950s science fiction robot and mechanical man, 4k ultra HD photograph:1","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00822 P ["A large collection of shotguns and shotgun shells and handguns:4", "1950s science fiction robot and mechanical man, 4k ultra HD photograph:1","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00827 P ["A large collection of shotguns and shotgun shells and handguns:3", "1950s science fiction robot and mechanical man, 4k ultra HD photograph:1","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00832 P ["A large collection of shotguns and shotgun shells and handguns:2", "1950s science fiction robot and mechanical man, 4k ultra HD photograph:1","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+00837 P ["A large collection of shotguns and shotgun shells and handguns", "1950s science fiction robot and mechanical man, 4k ultra HD photograph:1","Interconnected glass pipes filled with sloshing fluids, 4k ultra HD photograph"]
+
+00862 P ["A photograph of a giant moon, 4k ultra HD photograph:1", "1950s science fiction robot and mechanical man, 4k ultra HD photograph:1"]
+00913 P ["A photograph of a giant moon, 4k ultra HD photograph:2", "1950s science fiction robot and mechanical man, 4k ultra HD photograph:1"]
+00965 P ["A photograph of a giant moon, 4k ultra HD photograph:3", "1950s science fiction robot and mechanical man, 4k ultra HD photograph:1"]
+01016 P ["A photograph of a giant moon, 4k ultra HD photograph:4"]
+01068 P ["A photograph of a giant moon, 4k ultra HD photograph:5"]
+

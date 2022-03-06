@@ -2,8 +2,9 @@
 
 import re
 import fileinput
+import random
 
-(tx, ty, tz) = (0, 0, 10)
+(tx, ty, tz) = (-1, -1, -1)
 (cx, cy, cz) = (-1, -1, -1)
 zoom = -1 
 
@@ -15,11 +16,26 @@ xtrans_frames = []
 ytrans_frames = []
 ztrans_frames = []
 prompts = []
+max_frame = -1
+random_walk = False
 
 def read_camera(input):
   m = re.match(r'[0]*(\d+)\s+C\s+([-]?\d+[.]?\d*)\s+([-]?\d+[.]?\d*)\s+([-]?\d+[.]?\d*)', input)
   if m:
-    return (m.group(1), m.group(2), m.group(3), m.group(4))
+    global max_frame
+    if int(m.group(1)) > max_frame:
+      max_frame = int(m.group(1))
+    global cx, cy, cz
+    (frame, nx, ny, nz) = (int(m.group(1)), float(m.group(2)), float(m.group(3)), float(m.group(4)))
+    if nx != cx:
+      x_frames.append(f'{frame}:({nx:.3f})')
+      cx = nx
+    if ny != cy:
+      y_frames.append(f'{frame}:({ny:.3f})')
+      cy = ny
+    if nz != cz:
+      z_frames.append(f'{frame}:({nz:.3f})')
+      cz = nz
   else:
     print(f'Bad parse: {input}')
     exit(-1)
@@ -27,7 +43,19 @@ def read_camera(input):
 def read_translate(input):
   m = re.match(r'[0]*(\d+)\s+T\s+([-]?\d+[.]?\d*)\s+([-]?\d+[.]?\d*)\s+([-]?\d+[.]?\d*)', input)
   if m:
-    return (m.group(1), m.group(2), m.group(3), m.group(4))
+    global max_frame, tx, ty, tz
+    (frame, nx, ny, nz) = (int(m.group(1)), float(m.group(2)), float(m.group(3)), float(m.group(4)))
+    if frame > max_frame:
+      max_frame = frame
+    if nx != tx:
+      xtrans_frames.append(f'{frame}:({nx:.3f})')
+      tx = nx
+    if ny != ty:
+      ytrans_frames.append(f'{frame}:({ny:.3f})')
+      ty = ny
+    if nz != tz:
+      ztrans_frames.append(f'{frame}:({nz:.3f})')
+      tz = nz
   else:
     print(f'Bad parse: {input}')
     exit(-1)
@@ -36,6 +64,9 @@ def read_translate(input):
 def read_zoom(input):
   m = re.match(r'[0]*(\d+)\s+Z\s+(\d+[.]?\d*)', input)
   if m:
+    global max_frame
+    if int(m.group(1)) > max_frame:
+      max_frame = int(m.group(1))
     return (m.group(1), m.group(2))
   else:
     print(f'Bad parse: {input}')
@@ -44,6 +75,9 @@ def read_zoom(input):
 def read_prompt(input):
   m = re.match(r'[0]*(\d+)\s+P\s+(\[.*\])', input)
   if m:
+    global max_frame
+    if int(m.group(1)) > max_frame:
+      max_frame = int(m.group(1))
     return (m.group(1), m.group(2))
   else:
     print(f'Bad parse: {input}')
@@ -57,37 +91,29 @@ for l in fileinput.input():
     (frame, prompt) = read_prompt(l)
     prompts.append(f'  {frame}: {prompt}')
   elif ' C ' in l:
-    (frame, nx, ny, nz) = read_camera(l)
-    if nx != cx:
-      x_frames.append(f'{frame}:({nx})')
-      cx = nx
-    if ny != cy:
-      y_frames.append(f'{frame}:({ny})')
-      cy = ny
-    if nz != cz:
-      z_frames.append(f'{frame}:({nz})')
-      cz = nz
+    read_camera(l)
   elif ' T ' in l:
-    (frame, nx, ny, nz) = read_translate(l)
-    if nx != tx:
-      xtrans_frames.append(f'{frame}:({nx})')
-      tx = nx
-    if ny != ty:
-      ytrans_frames.append(f'{frame}:({ny})')
-      ty = ny
-    if nz != tz:
-      ztrans_frames.append(f'{frame}:({nz})')
-      tz = nz
+    read_translate(l)
   elif ' Z ' in l:
     (frame, nzoom) = read_zoom(l)
     if nzoom != zoom:
       zoom_frames.append(f'{frame}:({nzoom})')
       zoom = nzoom
   else:
-    if l:
+    if l.strip():
       print(f'Unknown command: {l}')
+      exit(-1)
+
+if random_walk:
+  cframe=0
+  while cframe < max_frame:
+    cframe += random.randint(20,60)
+    read_camera(f'{cframe} C {random.uniform(-0.02, 0.02):f} {random.uniform(-0.01, 0.01):f} {random.uniform(-0.007, 0.007):f}')
+    read_translate(f'{cframe} T {random.uniform(-4,4):f} {random.uniform(-2,2):f} 6')
+
 
    
+print(f'Max frame: {max_frame}')
 
 print('Prompts:')
 kprompts = ',\n'.join(prompts)

@@ -104,34 +104,56 @@
 01470 C 0 0.015 0
 01490 C 0.02 0.01 0
 
-01520 P ["pastoral landscape and wooden fence by Claude Lorrain"]
+01520 P ["art nouveau mural on the side of a brick building, trending on ArtStation"]
 01540 C 0.01 0.005 0
 01560 C 0 0.005 0
 01580 C -0.01 0.005 0
 
-01600 P ["charcoal illustration of a brick building in a small town"]
+01600 P ["photomicrography context winner, trending on ArtStation"]
 01600 C -0.02 0.01 0
 01600 Z 1.06
 
 01625 Z 1.05
 
-01650 P ["art nouveau mural on the side of a brick building"]
 01650 Z 1.04
 01650 C 0.02 0.01 0
+01650 P ["photomicrography of a horse contest winner, trending on ArtStation"]
 
-01740 P ["lake next to a forest clearing, painted by Thomas Kinkade"]
+01690 P ["photomicrography of an oak tree contest winner, trending on ArtStation"]
+
 01740 C -0.02 0 0
+01740 P ["photograph of an oak tree contest winner, trending on ArtStation"]
+
+01770 P ["a railroad of bones above a beautiful landscape of trees and mountains, trending on ArtStation"]
 
 01790 C 0.02 -0.01 0
 
 01810 C 0.01 0 0
 
-01830 P ["World War II propaganda poster on the side of brick building, trending on ArtStation"]
+01830 P ["a Paris city street with townhouses covered in tentacles, trending on ArtStation"]
 01830 C 0.02 0.01 0
 
 01900 P ["Bug-eyed aliens emerging from a giant spaceship landing next to a small town, trending on ArtStation"]
 
+01950 P ["Bug-eyed aliens emerging from a giant spaceship landing next to a small town, trending on ArtStation"]
+
+02020 P ["Kaiju emerging from the ocean on the shore next to a large city", "Bug-eyed aliens emerging from a giant spaceship landing next to a small town, trending on ArtStation"]
+02020 C 0.01 0 0
+02020 Z 1.05
+
+02069 C 0 0.01 0
+
+02080 C 0 0.02 0
+02100 C 0 0.01 0
+02120 C 0 0 0
+02140 C 0 -0.01 0
+02160 C 0 -0.02 0
+02160 Z 1.04
+
+02180 C 0 -0.01 0
+02180 Z 1.03
+
 # Slow the camera to near-nothing and drop translation.  Hopefully this will be a peaceful outro?
-02200 P ["Clouds over a peaceful ocean with sailboats on it, trending on ArtStation"]
+02200 P ["Clouds and colorful balloons float over a peaceful ocean with sailboats on it, trending on ArtStation"]
 02200 T 0 0 0
 02200 C 0 0 0.0001
