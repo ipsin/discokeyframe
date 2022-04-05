@@ -1,0 +1,9 @@
+00000 CX -0.01 0.01 -0.005 0.005 -0.007 0.007
+00000 TX -4.0 4.0 -2.0 2.0 6.0 6.0
+00000 ZX 1.5 3.5
+00000 SUBJECTS ["underwater bedroom", "forest kitchen", "Tokyo street", "robotic monster"]
+00000 MODIFIERS ["8k rendering", "bright", "glowing", "radiant", "tilt-shift", "trending on ArtStation"]
+00000 ARTISTS ["Takashi Murakami", "Yoshitomo Nara", "Raffaelo Ossola", "Beeple"]
+00000 RC ON
+00000 RP ON
+04000 END

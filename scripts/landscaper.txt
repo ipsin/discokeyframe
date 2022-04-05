@@ -1,0 +1,5 @@
+00000 CX -0.01 0.01 -0.005 0.005 0.0 0.0
+00000 TX -4.0 4.0 -2.0 2.0 6.0 6.0
+00000 ZX 1.4 1.8
+00000 P ["cyberpunk angel lays in repose on a landscape of abstract shapes and conical sections by Jacek Yerka, trending on ArtStation"]
+00300 P ["cyberpunk angel lays in repose on a landscape of abstract shapes and conical sections by Jacek Yerka, trending on ArtStation"]
