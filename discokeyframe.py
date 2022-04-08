@@ -126,6 +126,9 @@ class Keyframer:
   def get_prompts(self) -> Dict[int, List[str]]:
     return self.prompts
 
+  def get_angles(self) -> str:
+    return ','.join(self.angle)
+
   def get_zooms(self) -> str:
     return ','.join(self.zoom)
 
