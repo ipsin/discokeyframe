@@ -46,6 +46,15 @@ class Keyframer:
   def get_frame(self) -> int:
     return self.frame
 
+  def read_script(self, script: str) -> None:
+    for line in script.splitlines():
+      line = line.strip()
+      if not line or line.startswith('#'):
+        continue
+      m = re.match(r'[0]*(\d+)\s+(\w+)(?:\s+(.*))?', line)
+      if m:
+        self.add_command(int(m.group(1)), m.group(2), m.group(3).strip())
+
   def add_command(self, frame:int, command: str, arg: str) -> None:
     for fr in range(self.frame, frame):
       if fr < 0:
