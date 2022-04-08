@@ -23,7 +23,7 @@ class Keyframer:
 
   def __init__(self):
     from gen_manual import ManualPrompt, ManualZoom, ManualCameraRotate, ManualCameraTranslate
-    from gen_random import RandomPrompt
+    from gen_random import RandomPrompt, RandomCamera
     self.frame = -1
     self.current_prompt = None
     self.camera = CameraSettings()
@@ -31,7 +31,7 @@ class Keyframer:
     self.prompt = None
     self.generators = [
       ManualPrompt(), ManualZoom(), ManualCameraRotate(), ManualCameraTranslate(),
-      RandomPrompt()
+      RandomPrompt(), RandomCamera()
     ]  
     self.x_translate = []
     self.y_translate = []
@@ -120,7 +120,7 @@ class Keyframer:
   def add_angle(self, frame: int, value: float) -> None:
     nv = f'{value:.4g}'
     if self.camera.angle != nv:
-      self.angle.append('{frame}:{nv}')
+      self.angle.append(f'{frame}:{nv}')
       self.camera.zoom = float(nv)
 
   def get_prompts(self) -> Dict[int, List[str]]:

@@ -73,3 +73,29 @@ class TestRandomControls(unittest.TestCase):
       193: ['happy landscape', 'horse:2',
             'vaporwave dragon by Yayoi Kusama:8']
     })
+
+
+  def test_script(self):
+    k = Keyframer()
+    k.read_script("""
+      00000 RC SEED 1234
+      00000 RC X_TRANS -4.0 4.0
+      00000 RC Y_TRANS -2.0 2.0
+      00000 RC Z_TRANS  6.0 6.0
+      00000 RC X_CAM -0.01 0.01
+      00000 RC Y_CAM -0.005 0.005
+      00000 RC Z_CAM -0.007 0.007
+      00000 RC COUNTERANGLE -0.5
+      00000 RC ZOOM 1.5 3.5
+      00000 RC CYCLE 70-150
+      00000 RC ON
+      00200 RC OFF
+    """)
+    self.assertEqual(k.get_angles(), '0:0.0002963,79:0.0007268')
+    self.assertEqual(k.get_zooms(), '0:2.84,79:2.47')
+    self.assertEqual(k.get_x_translates(), '0:3.3,79:3.9')
+    self.assertEqual(k.get_y_translates(), '0:1.8,79:-1.9')
+    self.assertEqual(k.get_z_translates(), '0:6')
+    self.assertEqual(k.get_x_rotates(), '0:0.00933,79:-0.00803')
+    self.assertEqual(k.get_y_rotates(), '0:-0.000593,79:-0.00145')
+    self.assertEqual(k.get_z_rotates(), '0:-0.0069,79:-0.00676')
