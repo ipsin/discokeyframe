@@ -23,12 +23,16 @@ class Keyframer:
 
   def __init__(self):
     from gen_manual import ManualPrompt, ManualZoom, ManualCameraRotate, ManualCameraTranslate
+    from gen_random import RandomPrompt
     self.frame = -1
     self.current_prompt = None
     self.camera = CameraSettings()
     self.prompts = {}
     self.prompt = None
-    self.generators = [ManualPrompt(), ManualZoom(), ManualCameraRotate(), ManualCameraTranslate()]
+    self.generators = [
+      ManualPrompt(), ManualZoom(), ManualCameraRotate(), ManualCameraTranslate(),
+      RandomPrompt()
+    ]  
     self.x_translate = []
     self.y_translate = []
     self.z_translate = []
