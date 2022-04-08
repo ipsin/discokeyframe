@@ -1,3 +1,6 @@
+00000 CX -0.01 0.01 -0.005 0.005 -0.007 0.007
+00000 TX -4.0 4.0 -2.0 2.0 6.0 6.0
+00000 ZX 1.5 3.5
 00000 P ["cyberpunk night neon alley dystopia"]
 00035 P ["cyberpunk night neon alley dystopia", "high-tech dumpster on the left side of an alley"]
 00038 P ["cyberpunk night neon alley dystopia"]

@@ -2,7 +2,7 @@ import unittest
 
 from discokeyframe import Keyframer
 
-class TestStringMethods(unittest.TestCase):
+class TestManualControls(unittest.TestCase):
     def test_prompts(self): 
       k = Keyframer()
       k.add_command(1, 'P', '[\'a:3\', \'b\']')

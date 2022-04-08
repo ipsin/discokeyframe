@@ -13,3 +13,6 @@ Manage your camera controls for [Disco Diffusion v5](https://colab.research.goog
 # Translate camera (x y z). Translate camera by (10,-10,5) at frame 500.
 00500 T 10 -10 5
 ```
+
+Two coming features I'd like to be able to control are random camera (RC) and random prompt (RP).
+How does this work?  Every time
