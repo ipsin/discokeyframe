@@ -78,49 +78,49 @@ class Keyframer:
   def add_x_translate(self, frame: int, value: float) -> None:
     nv = f'{value:.2g}'
     if self.camera.x_translate != float(nv):
-      self.x_translate.append(f'{frame}:{nv}')
+      self.x_translate.append(f'{frame}:({nv})')
       self.camera.x_translate = float(nv)
 
   def add_y_translate(self, frame: int, value: float) -> None:
     nv = f'{value:.2g}'
     if self.camera.y_translate != float(nv):
-      self.y_translate.append(f'{frame}:{nv}')
+      self.y_translate.append(f'{frame}:({nv})')
       self.camera.y_translate = float(nv)
 
   def add_z_translate(self, frame: int, value: float) -> None:
     nv = f'{value:.2g}'
     if self.camera.z_translate != float(nv):
-      self.z_translate.append(f'{frame}:{nv}')
+      self.z_translate.append(f'{frame}:({nv})')
       self.camera.z_translate = float(nv)
 
   def add_x_rotate(self, frame: int, value: float) -> None:
     nv = f'{value:.3g}'
     if self.camera.x_rotate != float(nv):
-      self.x_rotate.append(f'{frame}:{nv}')
+      self.x_rotate.append(f'{frame}:({nv})')
       self.camera.x_rotate = float(nv)
 
   def add_y_rotate(self, frame: int, value: float) -> None:
     nv = f'{value:.3g}'
     if self.camera.y_rotate != float(nv):
-      self.y_rotate.append(f'{frame}:{nv}')
+      self.y_rotate.append(f'{frame}:({nv})')
       self.camera.y_rotate = float(nv)
 
   def add_z_rotate(self, frame: int, value: float) -> None:
     nv = f'{value:.3g}'
     if self.camera.z_rotate != float(nv):
-      self.z_rotate.append(f'{frame}:{nv}')
+      self.z_rotate.append(f'{frame}:({nv})')
       self.camera.z_rotate = float(nv)
 
   def add_zoom(self, frame: int, value: float) -> None:
     nv = f'{value:.3g}'
     if self.camera.zoom != float(nv):
-      self.zoom.append(f'{frame}:{nv}')
+      self.zoom.append(f'{frame}:({nv})')
       self.camera.zoom = float(nv)
 
   def add_angle(self, frame: int, value: float) -> None:
     nv = f'{value:.4g}'
     if self.camera.angle != nv:
-      self.angle.append(f'{frame}:{nv}')
+      self.angle.append(f'{frame}:({nv})')
       self.camera.zoom = float(nv)
 
   def get_prompts(self) -> Dict[int, List[str]]:
