@@ -84,26 +84,32 @@ class RandomPrompt(EventGenerator):
       return
     self.prompt_tick -= 1
     if self.prompt_tick <= 0:
+      print(f'@ {frame} ==> {self.prompt_tick} {self.prompt_cycle}')
       next_prompt = self.generate_random_prompt()
       if self.current_prompt:
-        for i,v in enumerate(self.prompt_fade):
-          if len(self.prompt_fade) == i + 1:
-            frame_prompt = list(self.background_prompts)
-            frame_prompt.append(f'{next_prompt}:{self.prompt_weight}')
-            framer.add_prompt(frame + v, frame_prompt)
-          else:
-            new_weight = int((self.prompt_weight * (i + 1)) / len(self.prompt_fade))
-            frame_prompt = list(self.background_prompts)
-            frame_prompt.append(f'{next_prompt}:{new_weight}')
-            frame_prompt.append(f'{self.current_prompt}:{self.prompt_weight-new_weight}')
-            framer.add_prompt(frame + v, frame_prompt)
+        if self.prompt_fade: 
+          for i,v in enumerate(self.prompt_fade):
+            if len(self.prompt_fade) == i + 1:
+              frame_prompt = list(self.background_prompts)
+              frame_prompt.append(f'{next_prompt}:{self.prompt_weight}')
+              framer.add_prompt(frame + v, frame_prompt)
+            else:
+              new_weight = int((self.prompt_weight * (i + 1)) / len(self.prompt_fade))
+              frame_prompt = list(self.background_prompts)
+              frame_prompt.append(f'{next_prompt}:{new_weight}')
+              frame_prompt.append(f'{self.current_prompt}:{self.prompt_weight-new_weight}')
+              framer.add_prompt(frame + v, frame_prompt)
+        else:
+          framer.add_prompt(frame, [f'{next_prompt}:{self.prompt_weight}'])
       else:
         frame_prompt = list(self.background_prompts)
         frame_prompt.append(f'{next_prompt}:{self.prompt_weight}')
         framer.add_prompt(frame, frame_prompt)
 
+      print(f'{self.current_prompt} ==: {next_prompt}')
       self.current_prompt = next_prompt
       self.prompt_tick = self.random.randint(*self.prompt_cycle)
+      print(f'Prompt tick is now {self.prompt_tick}')
 
   def generate_random_prompt(self) -> str:
     subj = self.random.choice(self.subjects)

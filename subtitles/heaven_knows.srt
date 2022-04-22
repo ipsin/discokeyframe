@@ -1,0 +1,2575 @@
+0
+00:00:00,000 --> 00:00:04,000
+Heaven Knows by Donna Summer
+Disco Diffusion v5 Turbo + discokeyframe
+	
+
+1
+00:00:04,000 --> 00:00:05,866
+glass sculpture discotheque by John Atkinson Grimshaw (100%)
+	
+	
+
+2
+00:00:05,866 --> 00:00:06,100
+plaid tartan (16%)
+flaming ice sculpture by John Atkinson Grimshaw (16%)
+glass sculpture discotheque by John Atkinson Grimshaw (66%)
+
+3
+00:00:06,100 --> 00:00:06,333
+plaid tartan (16%)
+flaming ice sculpture by John Atkinson Grimshaw (33%)
+glass sculpture discotheque by John Atkinson Grimshaw (50%)
+
+4
+00:00:06,333 --> 00:00:06,566
+plaid tartan (16%)
+flaming ice sculpture by John Atkinson Grimshaw (50%)
+glass sculpture discotheque by John Atkinson Grimshaw (33%)
+
+5
+00:00:06,566 --> 00:00:07,866
+plaid tartan (16%)
+flaming ice sculpture by John Atkinson Grimshaw (83%)
+	
+
+6
+00:00:07,866 --> 00:00:08,100
+plaid tartan (16%)
+flaming bears and unicycles by Lauren Burch (16%)
+flaming ice sculpture by John Atkinson Grimshaw (66%)
+
+7
+00:00:08,100 --> 00:00:08,333
+plaid tartan (16%)
+flaming bears and unicycles by Lauren Burch (33%)
+flaming ice sculpture by John Atkinson Grimshaw (50%)
+
+8
+00:00:08,333 --> 00:00:08,566
+plaid tartan (16%)
+flaming bears and unicycles by Lauren Burch (50%)
+flaming ice sculpture by John Atkinson Grimshaw (33%)
+
+9
+00:00:08,566 --> 00:00:10,400
+plaid tartan (16%)
+flaming bears and unicycles by Lauren Burch (83%)
+	
+
+10
+00:00:10,400 --> 00:00:10,633
+plaid tartan (16%)
+tilt shift discotheque by RHADS (16%)
+flaming bears and unicycles by Lauren Burch (66%)
+
+11
+00:00:10,633 --> 00:00:10,866
+plaid tartan (16%)
+tilt shift discotheque by RHADS (33%)
+flaming bears and unicycles by Lauren Burch (50%)
+
+12
+00:00:10,866 --> 00:00:11,100
+plaid tartan (16%)
+tilt shift discotheque by RHADS (50%)
+flaming bears and unicycles by Lauren Burch (33%)
+
+13
+00:00:11,100 --> 00:00:12,433
+plaid tartan (16%)
+tilt shift discotheque by RHADS (83%)
+	
+
+14
+00:00:12,433 --> 00:00:12,666
+plaid tartan (16%)
+crayon country bar by RHADS (16%)
+tilt shift discotheque by RHADS (66%)
+
+15
+00:00:12,666 --> 00:00:12,900
+plaid tartan (16%)
+crayon country bar by RHADS (33%)
+tilt shift discotheque by RHADS (50%)
+
+16
+00:00:12,900 --> 00:00:13,133
+plaid tartan (16%)
+crayon country bar by RHADS (50%)
+tilt shift discotheque by RHADS (33%)
+
+17
+00:00:13,133 --> 00:00:14,300
+plaid tartan (16%)
+crayon country bar by RHADS (83%)
+	
+
+18
+00:00:14,300 --> 00:00:14,533
+plaid tartan (16%)
+glass sculpture ice sculpture by Beeple (16%)
+crayon country bar by RHADS (66%)
+
+19
+00:00:14,533 --> 00:00:14,766
+plaid tartan (16%)
+glass sculpture ice sculpture by Beeple (33%)
+crayon country bar by RHADS (50%)
+
+20
+00:00:14,766 --> 00:00:15,000
+plaid tartan (16%)
+glass sculpture ice sculpture by Beeple (50%)
+crayon country bar by RHADS (33%)
+
+21
+00:00:15,000 --> 00:00:16,266
+plaid tartan (16%)
+glass sculpture ice sculpture by Beeple (83%)
+	
+
+22
+00:00:16,266 --> 00:00:16,500
+plaid tartan (16%)
+glass sculpture brick wall by Beeple (16%)
+glass sculpture ice sculpture by Beeple (66%)
+
+23
+00:00:16,500 --> 00:00:16,733
+plaid tartan (16%)
+glass sculpture brick wall by Beeple (33%)
+glass sculpture ice sculpture by Beeple (50%)
+
+24
+00:00:16,733 --> 00:00:16,966
+plaid tartan (16%)
+glass sculpture brick wall by Beeple (50%)
+glass sculpture ice sculpture by Beeple (33%)
+
+25
+00:00:16,966 --> 00:00:18,300
+plaid tartan (16%)
+glass sculpture brick wall by Beeple (83%)
+	
+
+26
+00:00:18,300 --> 00:00:18,533
+polka dots (16%)
+flaming ice sculpture by Lauren Burch (16%)
+glass sculpture brick wall by Beeple (66%)
+
+27
+00:00:18,533 --> 00:00:18,766
+polka dots (16%)
+flaming ice sculpture by Lauren Burch (33%)
+glass sculpture brick wall by Beeple (50%)
+
+28
+00:00:18,766 --> 00:00:19,000
+polka dots (16%)
+flaming ice sculpture by Lauren Burch (50%)
+glass sculpture brick wall by Beeple (33%)
+
+29
+00:00:19,000 --> 00:00:20,866
+polka dots (16%)
+flaming ice sculpture by Lauren Burch (83%)
+	
+
+30
+00:00:20,866 --> 00:00:21,100
+polka dots (16%)
+crayon discotheque by John Atkinson Grimshaw (16%)
+flaming ice sculpture by Lauren Burch (66%)
+
+31
+00:00:21,100 --> 00:00:21,333
+polka dots (16%)
+crayon discotheque by John Atkinson Grimshaw (33%)
+flaming ice sculpture by Lauren Burch (50%)
+
+32
+00:00:21,333 --> 00:00:21,566
+polka dots (16%)
+crayon discotheque by John Atkinson Grimshaw (50%)
+flaming ice sculpture by Lauren Burch (33%)
+
+33
+00:00:21,566 --> 00:00:22,800
+polka dots (16%)
+crayon discotheque by John Atkinson Grimshaw (83%)
+	
+
+34
+00:00:22,800 --> 00:00:23,033
+polka dots (16%)
+glass sculpture unstirred paint by Moebius (16%)
+crayon discotheque by John Atkinson Grimshaw (66%)
+
+35
+00:00:23,033 --> 00:00:23,266
+polka dots (16%)
+glass sculpture unstirred paint by Moebius (33%)
+crayon discotheque by John Atkinson Grimshaw (50%)
+
+36
+00:00:23,266 --> 00:00:23,500
+polka dots (16%)
+glass sculpture unstirred paint by Moebius (50%)
+crayon discotheque by John Atkinson Grimshaw (33%)
+
+37
+00:00:23,500 --> 00:00:25,200
+polka dots (16%)
+glass sculpture unstirred paint by Moebius (83%)
+	
+
+38
+00:00:25,200 --> 00:00:25,433
+polka dots (16%)
+flaming discotheque by Rebecca Guay (16%)
+glass sculpture unstirred paint by Moebius (66%)
+
+39
+00:00:25,433 --> 00:00:25,666
+polka dots (16%)
+flaming discotheque by Rebecca Guay (33%)
+glass sculpture unstirred paint by Moebius (50%)
+
+40
+00:00:25,666 --> 00:00:25,900
+polka dots (16%)
+flaming discotheque by Rebecca Guay (50%)
+glass sculpture unstirred paint by Moebius (33%)
+
+41
+00:00:25,900 --> 00:00:27,566
+polka dots (16%)
+flaming discotheque by Rebecca Guay (83%)
+	
+
+42
+00:00:27,566 --> 00:00:27,800
+polka dots (16%)
+flaming discotheque by Simon Stalenhag (16%)
+flaming discotheque by Rebecca Guay (66%)
+
+43
+00:00:27,800 --> 00:00:28,033
+polka dots (16%)
+flaming discotheque by Simon Stalenhag (33%)
+flaming discotheque by Rebecca Guay (50%)
+
+44
+00:00:28,033 --> 00:00:28,266
+polka dots (16%)
+flaming discotheque by Simon Stalenhag (50%)
+flaming discotheque by Rebecca Guay (33%)
+
+45
+00:00:28,266 --> 00:00:30,000
+polka dots (16%)
+flaming discotheque by Simon Stalenhag (83%)
+	
+
+46
+00:00:30,000 --> 00:00:30,233
+polka dots (16%)
+tilt shift unstirred paint by Simon Stalenhag (16%)
+flaming discotheque by Simon Stalenhag (66%)
+
+47
+00:00:30,233 --> 00:00:30,466
+polka dots (16%)
+tilt shift unstirred paint by Simon Stalenhag (33%)
+flaming discotheque by Simon Stalenhag (50%)
+
+48
+00:00:30,466 --> 00:00:30,700
+polka dots (16%)
+tilt shift unstirred paint by Simon Stalenhag (50%)
+flaming discotheque by Simon Stalenhag (33%)
+
+49
+00:00:30,700 --> 00:00:31,933
+polka dots (16%)
+tilt shift unstirred paint by Simon Stalenhag (83%)
+	
+
+50
+00:00:31,933 --> 00:00:32,166
+dazzle camouflage (16%)
+tilt shift bears and unicycles by Lauren Burch (16%)
+tilt shift unstirred paint by Simon Stalenhag (66%)
+
+51
+00:00:32,166 --> 00:00:32,400
+dazzle camouflage (16%)
+tilt shift bears and unicycles by Lauren Burch (33%)
+tilt shift unstirred paint by Simon Stalenhag (50%)
+
+52
+00:00:32,400 --> 00:00:32,633
+dazzle camouflage (16%)
+tilt shift bears and unicycles by Lauren Burch (50%)
+tilt shift unstirred paint by Simon Stalenhag (33%)
+
+53
+00:00:32,633 --> 00:00:34,000
+dazzle camouflage (16%)
+tilt shift bears and unicycles by Lauren Burch (83%)
+	
+
+54
+00:00:34,000 --> 00:00:34,233
+dazzle camouflage (16%)
+vaporwave unstirred paint by RHADS (16%)
+tilt shift bears and unicycles by Lauren Burch (66%)
+
+55
+00:00:34,233 --> 00:00:34,466
+dazzle camouflage (16%)
+vaporwave unstirred paint by RHADS (33%)
+tilt shift bears and unicycles by Lauren Burch (50%)
+
+56
+00:00:34,466 --> 00:00:34,700
+dazzle camouflage (16%)
+vaporwave unstirred paint by RHADS (50%)
+tilt shift bears and unicycles by Lauren Burch (33%)
+
+57
+00:00:34,700 --> 00:00:36,000
+dazzle camouflage (16%)
+vaporwave unstirred paint by RHADS (83%)
+	
+
+58
+00:00:36,000 --> 00:00:36,233
+dazzle camouflage (16%)
+tilt shift discotheque by RHADS (16%)
+vaporwave unstirred paint by RHADS (66%)
+
+59
+00:00:36,233 --> 00:00:36,466
+dazzle camouflage (16%)
+tilt shift discotheque by RHADS (33%)
+vaporwave unstirred paint by RHADS (50%)
+
+60
+00:00:36,466 --> 00:00:36,700
+dazzle camouflage (16%)
+tilt shift discotheque by RHADS (50%)
+vaporwave unstirred paint by RHADS (33%)
+
+61
+00:00:36,700 --> 00:00:37,700
+dazzle camouflage (16%)
+tilt shift discotheque by RHADS (83%)
+	
+
+62
+00:00:37,700 --> 00:00:37,933
+dazzle camouflage (16%)
+crayon ice sculpture by Moebius (16%)
+tilt shift discotheque by RHADS (66%)
+
+63
+00:00:37,933 --> 00:00:38,166
+dazzle camouflage (16%)
+crayon ice sculpture by Moebius (33%)
+tilt shift discotheque by RHADS (50%)
+
+64
+00:00:38,166 --> 00:00:38,400
+dazzle camouflage (16%)
+crayon ice sculpture by Moebius (50%)
+tilt shift discotheque by RHADS (33%)
+
+65
+00:00:38,400 --> 00:00:39,366
+dazzle camouflage (16%)
+crayon ice sculpture by Moebius (83%)
+	
+
+66
+00:00:39,366 --> 00:00:39,600
+dazzle camouflage (16%)
+tilt shift unstirred paint by Beeple (16%)
+crayon ice sculpture by Moebius (66%)
+
+67
+00:00:39,600 --> 00:00:39,833
+dazzle camouflage (16%)
+tilt shift unstirred paint by Beeple (33%)
+crayon ice sculpture by Moebius (50%)
+
+68
+00:00:39,833 --> 00:00:40,066
+dazzle camouflage (16%)
+tilt shift unstirred paint by Beeple (50%)
+crayon ice sculpture by Moebius (33%)
+
+69
+00:00:40,066 --> 00:00:41,333
+dazzle camouflage (16%)
+tilt shift unstirred paint by Beeple (83%)
+	
+
+70
+00:00:41,333 --> 00:00:41,566
+dazzle camouflage (16%)
+tilt shift country bar by Rebecca Guay (16%)
+tilt shift unstirred paint by Beeple (66%)
+
+71
+00:00:41,566 --> 00:00:41,800
+dazzle camouflage (16%)
+tilt shift country bar by Rebecca Guay (33%)
+tilt shift unstirred paint by Beeple (50%)
+
+72
+00:00:41,800 --> 00:00:42,033
+dazzle camouflage (16%)
+tilt shift country bar by Rebecca Guay (50%)
+tilt shift unstirred paint by Beeple (33%)
+
+73
+00:00:42,033 --> 00:00:43,166
+dazzle camouflage (16%)
+tilt shift country bar by Rebecca Guay (83%)
+	
+
+74
+00:00:43,166 --> 00:00:43,400
+dazzle camouflage (16%)
+tilt shift country bar by Simon Stalenhag (16%)
+tilt shift country bar by Rebecca Guay (66%)
+
+75
+00:00:43,400 --> 00:00:43,633
+dazzle camouflage (16%)
+tilt shift country bar by Simon Stalenhag (33%)
+tilt shift country bar by Rebecca Guay (50%)
+
+76
+00:00:43,633 --> 00:00:43,866
+dazzle camouflage (16%)
+tilt shift country bar by Simon Stalenhag (50%)
+tilt shift country bar by Rebecca Guay (33%)
+
+77
+00:00:43,866 --> 00:00:45,000
+dazzle camouflage (16%)
+tilt shift country bar by Simon Stalenhag (83%)
+	
+
+78
+00:00:45,000 --> 00:00:45,233
+wavy lines (16%)
+glass sculpture bears and unicycles by Rebecca Guay (16%)
+tilt shift country bar by Simon Stalenhag (66%)
+
+79
+00:00:45,233 --> 00:00:45,466
+wavy lines (16%)
+glass sculpture bears and unicycles by Rebecca Guay (33%)
+tilt shift country bar by Simon Stalenhag (50%)
+
+80
+00:00:45,466 --> 00:00:45,700
+wavy lines (16%)
+glass sculpture bears and unicycles by Rebecca Guay (50%)
+tilt shift country bar by Simon Stalenhag (33%)
+
+81
+00:00:45,700 --> 00:00:47,100
+wavy lines (16%)
+glass sculpture bears and unicycles by Rebecca Guay (83%)
+	
+
+82
+00:00:47,100 --> 00:00:47,333
+wavy lines (16%)
+vaporwave brick wall by Simon Stalenhag (16%)
+glass sculpture bears and unicycles by Rebecca Guay (66%)
+
+83
+00:00:47,333 --> 00:00:47,566
+wavy lines (16%)
+vaporwave brick wall by Simon Stalenhag (33%)
+glass sculpture bears and unicycles by Rebecca Guay (50%)
+
+84
+00:00:47,566 --> 00:00:47,800
+wavy lines (16%)
+vaporwave brick wall by Simon Stalenhag (50%)
+glass sculpture bears and unicycles by Rebecca Guay (33%)
+
+85
+00:00:47,800 --> 00:00:49,733
+wavy lines (16%)
+vaporwave brick wall by Simon Stalenhag (83%)
+	
+
+86
+00:00:49,733 --> 00:00:49,966
+wavy lines (16%)
+crayon ice sculpture by RHADS (16%)
+vaporwave brick wall by Simon Stalenhag (66%)
+
+87
+00:00:49,966 --> 00:00:50,200
+wavy lines (16%)
+crayon ice sculpture by RHADS (33%)
+vaporwave brick wall by Simon Stalenhag (50%)
+
+88
+00:00:50,200 --> 00:00:50,433
+wavy lines (16%)
+crayon ice sculpture by RHADS (50%)
+vaporwave brick wall by Simon Stalenhag (33%)
+
+89
+00:00:50,433 --> 00:00:51,733
+wavy lines (16%)
+crayon ice sculpture by RHADS (83%)
+	
+
+90
+00:00:51,733 --> 00:00:51,966
+wavy lines (16%)
+flaming discotheque by John Atkinson Grimshaw (16%)
+crayon ice sculpture by RHADS (66%)
+
+91
+00:00:51,966 --> 00:00:52,200
+wavy lines (16%)
+flaming discotheque by John Atkinson Grimshaw (33%)
+crayon ice sculpture by RHADS (50%)
+
+92
+00:00:52,200 --> 00:00:52,433
+wavy lines (16%)
+flaming discotheque by John Atkinson Grimshaw (50%)
+crayon ice sculpture by RHADS (33%)
+
+93
+00:00:52,433 --> 00:00:54,200
+wavy lines (16%)
+flaming discotheque by John Atkinson Grimshaw (83%)
+	
+
+94
+00:00:54,200 --> 00:00:54,433
+wavy lines (16%)
+flaming discotheque by Lauren Burch (16%)
+flaming discotheque by John Atkinson Grimshaw (66%)
+
+95
+00:00:54,433 --> 00:00:54,666
+wavy lines (16%)
+flaming discotheque by Lauren Burch (33%)
+flaming discotheque by John Atkinson Grimshaw (50%)
+
+96
+00:00:54,666 --> 00:00:54,900
+wavy lines (16%)
+flaming discotheque by Lauren Burch (50%)
+flaming discotheque by John Atkinson Grimshaw (33%)
+
+97
+00:00:54,900 --> 00:00:56,333
+wavy lines (16%)
+flaming discotheque by Lauren Burch (83%)
+	
+
+98
+00:00:56,333 --> 00:00:56,566
+wavy lines (16%)
+tilt shift unstirred paint by Moebius (16%)
+flaming discotheque by Lauren Burch (66%)
+
+99
+00:00:56,566 --> 00:00:56,800
+wavy lines (16%)
+tilt shift unstirred paint by Moebius (33%)
+flaming discotheque by Lauren Burch (50%)
+
+100
+00:00:56,800 --> 00:00:57,033
+wavy lines (16%)
+tilt shift unstirred paint by Moebius (50%)
+flaming discotheque by Lauren Burch (33%)
+
+101
+00:00:57,033 --> 00:00:58,533
+wavy lines (16%)
+tilt shift unstirred paint by Moebius (83%)
+	
+
+102
+00:00:58,533 --> 00:00:58,766
+tiny squares (16%)
+vaporwave ice sculpture by Moebius (16%)
+tilt shift unstirred paint by Moebius (66%)
+
+103
+00:00:58,766 --> 00:00:59,000
+tiny squares (16%)
+vaporwave ice sculpture by Moebius (33%)
+tilt shift unstirred paint by Moebius (50%)
+
+104
+00:00:59,000 --> 00:00:59,233
+tiny squares (16%)
+vaporwave ice sculpture by Moebius (50%)
+tilt shift unstirred paint by Moebius (33%)
+
+105
+00:00:59,233 --> 00:01:01,000
+tiny squares (16%)
+vaporwave ice sculpture by Moebius (83%)
+	
+
+106
+00:01:01,000 --> 00:01:01,233
+tiny squares (16%)
+vaporwave country bar by Rebecca Guay (16%)
+vaporwave ice sculpture by Moebius (66%)
+
+107
+00:01:01,233 --> 00:01:01,466
+tiny squares (16%)
+vaporwave country bar by Rebecca Guay (33%)
+vaporwave ice sculpture by Moebius (50%)
+
+108
+00:01:01,466 --> 00:01:01,700
+tiny squares (16%)
+vaporwave country bar by Rebecca Guay (50%)
+vaporwave ice sculpture by Moebius (33%)
+
+109
+00:01:01,700 --> 00:01:02,900
+tiny squares (16%)
+vaporwave country bar by Rebecca Guay (83%)
+	
+
+110
+00:01:02,900 --> 00:01:03,133
+tiny squares (16%)
+vaporwave discotheque by Beeple (16%)
+vaporwave country bar by Rebecca Guay (66%)
+
+111
+00:01:03,133 --> 00:01:03,366
+tiny squares (16%)
+vaporwave discotheque by Beeple (33%)
+vaporwave country bar by Rebecca Guay (50%)
+
+112
+00:01:03,366 --> 00:01:03,600
+tiny squares (16%)
+vaporwave discotheque by Beeple (50%)
+vaporwave country bar by Rebecca Guay (33%)
+
+113
+00:01:03,600 --> 00:01:05,266
+tiny squares (16%)
+vaporwave discotheque by Beeple (83%)
+	
+
+114
+00:01:05,266 --> 00:01:05,500
+tiny squares (16%)
+glass sculpture brick wall by Beeple (16%)
+vaporwave discotheque by Beeple (66%)
+
+115
+00:01:05,500 --> 00:01:05,733
+tiny squares (16%)
+glass sculpture brick wall by Beeple (33%)
+vaporwave discotheque by Beeple (50%)
+
+116
+00:01:05,733 --> 00:01:05,966
+tiny squares (16%)
+glass sculpture brick wall by Beeple (50%)
+vaporwave discotheque by Beeple (33%)
+
+117
+00:01:05,966 --> 00:01:07,600
+tiny squares (16%)
+glass sculpture brick wall by Beeple (83%)
+	
+
+118
+00:01:07,600 --> 00:01:07,833
+tiny squares (16%)
+vaporwave ice sculpture by RHADS (16%)
+glass sculpture brick wall by Beeple (66%)
+
+119
+00:01:07,833 --> 00:01:08,066
+tiny squares (16%)
+vaporwave ice sculpture by RHADS (33%)
+glass sculpture brick wall by Beeple (50%)
+
+120
+00:01:08,066 --> 00:01:08,300
+tiny squares (16%)
+vaporwave ice sculpture by RHADS (50%)
+glass sculpture brick wall by Beeple (33%)
+
+121
+00:01:08,300 --> 00:01:09,933
+tiny squares (16%)
+vaporwave ice sculpture by RHADS (83%)
+	
+
+122
+00:01:09,933 --> 00:01:10,166
+tiny squares (16%)
+tilt shift ice sculpture by Rebecca Guay (16%)
+vaporwave ice sculpture by RHADS (66%)
+
+123
+00:01:10,166 --> 00:01:10,400
+tiny squares (16%)
+tilt shift ice sculpture by Rebecca Guay (33%)
+vaporwave ice sculpture by RHADS (50%)
+
+124
+00:01:10,400 --> 00:01:10,633
+tiny squares (16%)
+tilt shift ice sculpture by Rebecca Guay (50%)
+vaporwave ice sculpture by RHADS (33%)
+
+125
+00:01:10,633 --> 00:01:12,300
+tiny squares (16%)
+tilt shift ice sculpture by Rebecca Guay (83%)
+	
+
+126
+00:01:12,300 --> 00:01:12,533
+orange triangles (16%)
+flaming bears and unicycles by Moebius (16%)
+tilt shift ice sculpture by Rebecca Guay (66%)
+
+127
+00:01:12,533 --> 00:01:12,766
+orange triangles (16%)
+flaming bears and unicycles by Moebius (33%)
+tilt shift ice sculpture by Rebecca Guay (50%)
+
+128
+00:01:12,766 --> 00:01:13,000
+orange triangles (16%)
+flaming bears and unicycles by Moebius (50%)
+tilt shift ice sculpture by Rebecca Guay (33%)
+
+129
+00:01:13,000 --> 00:01:14,733
+orange triangles (16%)
+flaming bears and unicycles by Moebius (83%)
+	
+
+130
+00:01:14,733 --> 00:01:14,966
+orange triangles (16%)
+crayon discotheque by Moebius (16%)
+flaming bears and unicycles by Moebius (66%)
+
+131
+00:01:14,966 --> 00:01:15,200
+orange triangles (16%)
+crayon discotheque by Moebius (33%)
+flaming bears and unicycles by Moebius (50%)
+
+132
+00:01:15,200 --> 00:01:15,433
+orange triangles (16%)
+crayon discotheque by Moebius (50%)
+flaming bears and unicycles by Moebius (33%)
+
+133
+00:01:15,433 --> 00:01:16,900
+orange triangles (16%)
+crayon discotheque by Moebius (83%)
+	
+
+134
+00:01:16,900 --> 00:01:17,133
+orange triangles (16%)
+vaporwave bears and unicycles by Lauren Burch (16%)
+crayon discotheque by Moebius (66%)
+
+135
+00:01:17,133 --> 00:01:17,366
+orange triangles (16%)
+vaporwave bears and unicycles by Lauren Burch (33%)
+crayon discotheque by Moebius (50%)
+
+136
+00:01:17,366 --> 00:01:17,600
+orange triangles (16%)
+vaporwave bears and unicycles by Lauren Burch (50%)
+crayon discotheque by Moebius (33%)
+
+137
+00:01:17,600 --> 00:01:19,266
+orange triangles (16%)
+vaporwave bears and unicycles by Lauren Burch (83%)
+	
+
+138
+00:01:19,266 --> 00:01:19,500
+orange triangles (16%)
+tilt shift brick wall by Rebecca Guay (16%)
+vaporwave bears and unicycles by Lauren Burch (66%)
+
+139
+00:01:19,500 --> 00:01:19,733
+orange triangles (16%)
+tilt shift brick wall by Rebecca Guay (33%)
+vaporwave bears and unicycles by Lauren Burch (50%)
+
+140
+00:01:19,733 --> 00:01:19,966
+orange triangles (16%)
+tilt shift brick wall by Rebecca Guay (50%)
+vaporwave bears and unicycles by Lauren Burch (33%)
+
+141
+00:01:19,966 --> 00:01:21,200
+orange triangles (16%)
+tilt shift brick wall by Rebecca Guay (83%)
+	
+
+142
+00:01:21,200 --> 00:01:21,433
+orange triangles (16%)
+vaporwave discotheque by Moebius (16%)
+tilt shift brick wall by Rebecca Guay (66%)
+
+143
+00:01:21,433 --> 00:01:21,666
+orange triangles (16%)
+vaporwave discotheque by Moebius (33%)
+tilt shift brick wall by Rebecca Guay (50%)
+
+144
+00:01:21,666 --> 00:01:21,900
+orange triangles (16%)
+vaporwave discotheque by Moebius (50%)
+tilt shift brick wall by Rebecca Guay (33%)
+
+145
+00:01:21,900 --> 00:01:23,633
+orange triangles (16%)
+vaporwave discotheque by Moebius (83%)
+	
+
+146
+00:01:23,633 --> 00:01:23,866
+orange triangles (16%)
+glass sculpture discotheque by Rebecca Guay (16%)
+vaporwave discotheque by Moebius (66%)
+
+147
+00:01:23,866 --> 00:01:24,100
+orange triangles (16%)
+glass sculpture discotheque by Rebecca Guay (33%)
+vaporwave discotheque by Moebius (50%)
+
+148
+00:01:24,100 --> 00:01:24,333
+orange triangles (16%)
+glass sculpture discotheque by Rebecca Guay (50%)
+vaporwave discotheque by Moebius (33%)
+
+149
+00:01:24,333 --> 00:01:25,433
+orange triangles (16%)
+glass sculpture discotheque by Rebecca Guay (83%)
+	
+
+150
+00:01:25,433 --> 00:01:25,666
+blue squares (16%)
+tilt shift unstirred paint by Moebius (16%)
+glass sculpture discotheque by Rebecca Guay (66%)
+
+151
+00:01:25,666 --> 00:01:25,900
+blue squares (16%)
+tilt shift unstirred paint by Moebius (33%)
+glass sculpture discotheque by Rebecca Guay (50%)
+
+152
+00:01:25,900 --> 00:01:26,133
+blue squares (16%)
+tilt shift unstirred paint by Moebius (50%)
+glass sculpture discotheque by Rebecca Guay (33%)
+
+153
+00:01:26,133 --> 00:01:27,200
+blue squares (16%)
+tilt shift unstirred paint by Moebius (83%)
+	
+
+154
+00:01:27,200 --> 00:01:27,433
+blue squares (16%)
+flaming unstirred paint by Rebecca Guay (16%)
+tilt shift unstirred paint by Moebius (66%)
+
+155
+00:01:27,433 --> 00:01:27,666
+blue squares (16%)
+flaming unstirred paint by Rebecca Guay (33%)
+tilt shift unstirred paint by Moebius (50%)
+
+156
+00:01:27,666 --> 00:01:27,900
+blue squares (16%)
+flaming unstirred paint by Rebecca Guay (50%)
+tilt shift unstirred paint by Moebius (33%)
+
+157
+00:01:27,900 --> 00:01:29,600
+blue squares (16%)
+flaming unstirred paint by Rebecca Guay (83%)
+	
+
+158
+00:01:29,600 --> 00:01:29,833
+blue squares (16%)
+flaming unstirred paint by RHADS (16%)
+flaming unstirred paint by Rebecca Guay (66%)
+
+159
+00:01:29,833 --> 00:01:30,066
+blue squares (16%)
+flaming unstirred paint by RHADS (33%)
+flaming unstirred paint by Rebecca Guay (50%)
+
+160
+00:01:30,066 --> 00:01:30,300
+blue squares (16%)
+flaming unstirred paint by RHADS (50%)
+flaming unstirred paint by Rebecca Guay (33%)
+
+161
+00:01:30,300 --> 00:01:31,900
+blue squares (16%)
+flaming unstirred paint by RHADS (83%)
+	
+
+162
+00:01:31,900 --> 00:01:32,133
+blue squares (16%)
+crayon discotheque by RHADS (16%)
+flaming unstirred paint by RHADS (66%)
+
+163
+00:01:32,133 --> 00:01:32,366
+blue squares (16%)
+crayon discotheque by RHADS (33%)
+flaming unstirred paint by RHADS (50%)
+
+164
+00:01:32,366 --> 00:01:32,600
+blue squares (16%)
+crayon discotheque by RHADS (50%)
+flaming unstirred paint by RHADS (33%)
+
+165
+00:01:32,600 --> 00:01:33,600
+blue squares (16%)
+crayon discotheque by RHADS (83%)
+	
+
+166
+00:01:33,600 --> 00:01:33,833
+blue squares (16%)
+tilt shift brick wall by Rebecca Guay (16%)
+crayon discotheque by RHADS (66%)
+
+167
+00:01:33,833 --> 00:01:34,066
+blue squares (16%)
+tilt shift brick wall by Rebecca Guay (33%)
+crayon discotheque by RHADS (50%)
+
+168
+00:01:34,066 --> 00:01:34,300
+blue squares (16%)
+tilt shift brick wall by Rebecca Guay (50%)
+crayon discotheque by RHADS (33%)
+
+169
+00:01:34,300 --> 00:01:35,866
+blue squares (16%)
+tilt shift brick wall by Rebecca Guay (83%)
+	
+
+170
+00:01:35,866 --> 00:01:36,100
+blue squares (16%)
+vaporwave bears and unicycles by Rebecca Guay (16%)
+tilt shift brick wall by Rebecca Guay (66%)
+
+171
+00:01:36,100 --> 00:01:36,333
+blue squares (16%)
+vaporwave bears and unicycles by Rebecca Guay (33%)
+tilt shift brick wall by Rebecca Guay (50%)
+
+172
+00:01:36,333 --> 00:01:36,566
+blue squares (16%)
+vaporwave bears and unicycles by Rebecca Guay (50%)
+tilt shift brick wall by Rebecca Guay (33%)
+
+173
+00:01:36,566 --> 00:01:38,433
+blue squares (16%)
+vaporwave bears and unicycles by Rebecca Guay (83%)
+	
+
+174
+00:01:38,433 --> 00:01:38,666
+multicolored octagons (16%)
+tilt shift ice sculpture by RHADS (16%)
+vaporwave bears and unicycles by Rebecca Guay (66%)
+
+175
+00:01:38,666 --> 00:01:38,900
+multicolored octagons (16%)
+tilt shift ice sculpture by RHADS (33%)
+vaporwave bears and unicycles by Rebecca Guay (50%)
+
+176
+00:01:38,900 --> 00:01:39,133
+multicolored octagons (16%)
+tilt shift ice sculpture by RHADS (50%)
+vaporwave bears and unicycles by Rebecca Guay (33%)
+
+177
+00:01:39,133 --> 00:01:41,000
+multicolored octagons (16%)
+tilt shift ice sculpture by RHADS (83%)
+	
+
+178
+00:01:41,000 --> 00:01:41,233
+multicolored octagons (16%)
+glass sculpture ice sculpture by Moebius (16%)
+tilt shift ice sculpture by RHADS (66%)
+
+179
+00:01:41,233 --> 00:01:41,466
+multicolored octagons (16%)
+glass sculpture ice sculpture by Moebius (33%)
+tilt shift ice sculpture by RHADS (50%)
+
+180
+00:01:41,466 --> 00:01:41,700
+multicolored octagons (16%)
+glass sculpture ice sculpture by Moebius (50%)
+tilt shift ice sculpture by RHADS (33%)
+
+181
+00:01:41,700 --> 00:01:43,533
+multicolored octagons (16%)
+glass sculpture ice sculpture by Moebius (83%)
+	
+
+182
+00:01:43,533 --> 00:01:43,766
+multicolored octagons (16%)
+vaporwave brick wall by Moebius (16%)
+glass sculpture ice sculpture by Moebius (66%)
+
+183
+00:01:43,766 --> 00:01:44,000
+multicolored octagons (16%)
+vaporwave brick wall by Moebius (33%)
+glass sculpture ice sculpture by Moebius (50%)
+
+184
+00:01:44,000 --> 00:01:44,233
+multicolored octagons (16%)
+vaporwave brick wall by Moebius (50%)
+glass sculpture ice sculpture by Moebius (33%)
+
+185
+00:01:44,233 --> 00:01:46,066
+multicolored octagons (16%)
+vaporwave brick wall by Moebius (83%)
+	
+
+186
+00:01:46,066 --> 00:01:46,300
+multicolored octagons (16%)
+glass sculpture country bar by RHADS (16%)
+vaporwave brick wall by Moebius (66%)
+
+187
+00:01:46,300 --> 00:01:46,533
+multicolored octagons (16%)
+glass sculpture country bar by RHADS (33%)
+vaporwave brick wall by Moebius (50%)
+
+188
+00:01:46,533 --> 00:01:46,766
+multicolored octagons (16%)
+glass sculpture country bar by RHADS (50%)
+vaporwave brick wall by Moebius (33%)
+
+189
+00:01:46,766 --> 00:01:48,066
+multicolored octagons (16%)
+glass sculpture country bar by RHADS (83%)
+	
+
+190
+00:01:48,066 --> 00:01:48,300
+multicolored octagons (16%)
+flaming brick wall by John Atkinson Grimshaw (16%)
+glass sculpture country bar by RHADS (66%)
+
+191
+00:01:48,300 --> 00:01:48,533
+multicolored octagons (16%)
+flaming brick wall by John Atkinson Grimshaw (33%)
+glass sculpture country bar by RHADS (50%)
+
+192
+00:01:48,533 --> 00:01:48,766
+multicolored octagons (16%)
+flaming brick wall by John Atkinson Grimshaw (50%)
+glass sculpture country bar by RHADS (33%)
+
+193
+00:01:48,766 --> 00:01:50,300
+multicolored octagons (16%)
+flaming brick wall by John Atkinson Grimshaw (83%)
+	
+
+194
+00:01:50,300 --> 00:01:50,533
+multicolored octagons (16%)
+vaporwave discotheque by Beeple (16%)
+flaming brick wall by John Atkinson Grimshaw (66%)
+
+195
+00:01:50,533 --> 00:01:50,766
+multicolored octagons (16%)
+vaporwave discotheque by Beeple (33%)
+flaming brick wall by John Atkinson Grimshaw (50%)
+
+196
+00:01:50,766 --> 00:01:51,000
+multicolored octagons (16%)
+vaporwave discotheque by Beeple (50%)
+flaming brick wall by John Atkinson Grimshaw (33%)
+
+197
+00:01:51,000 --> 00:01:52,800
+multicolored octagons (16%)
+vaporwave discotheque by Beeple (83%)
+	
+
+198
+00:01:52,800 --> 00:01:53,033
+tile floor (37%)
+flaming ice sculpture by Moebius (12%)
+vaporwave discotheque by Beeple (50%)
+
+199
+00:01:53,033 --> 00:01:53,266
+tile floor (37%)
+flaming ice sculpture by Moebius (25%)
+vaporwave discotheque by Beeple (37%)
+
+200
+00:01:53,266 --> 00:01:53,500
+tile floor (37%)
+flaming ice sculpture by Moebius (37%)
+vaporwave discotheque by Beeple (25%)
+
+201
+00:01:53,500 --> 00:01:54,733
+tile floor (37%)
+flaming ice sculpture by Moebius (62%)
+	
+
+202
+00:01:54,733 --> 00:01:54,966
+tile floor (37%)
+tilt shift unstirred paint by Simon Stalenhag (12%)
+flaming ice sculpture by Moebius (50%)
+
+203
+00:01:54,966 --> 00:01:55,200
+tile floor (37%)
+tilt shift unstirred paint by Simon Stalenhag (25%)
+flaming ice sculpture by Moebius (37%)
+
+204
+00:01:55,200 --> 00:01:55,433
+tile floor (37%)
+tilt shift unstirred paint by Simon Stalenhag (37%)
+flaming ice sculpture by Moebius (25%)
+
+205
+00:01:55,433 --> 00:01:57,233
+tile floor (37%)
+tilt shift unstirred paint by Simon Stalenhag (62%)
+	
+
+206
+00:01:57,233 --> 00:01:57,466
+tile floor (37%)
+vaporwave brick wall by John Atkinson Grimshaw (12%)
+tilt shift unstirred paint by Simon Stalenhag (50%)
+
+207
+00:01:57,466 --> 00:01:57,700
+tile floor (37%)
+vaporwave brick wall by John Atkinson Grimshaw (25%)
+tilt shift unstirred paint by Simon Stalenhag (37%)
+
+208
+00:01:57,700 --> 00:01:57,933
+tile floor (37%)
+vaporwave brick wall by John Atkinson Grimshaw (37%)
+tilt shift unstirred paint by Simon Stalenhag (25%)
+
+209
+00:01:57,933 --> 00:01:59,200
+tile floor (37%)
+vaporwave brick wall by John Atkinson Grimshaw (62%)
+	
+
+210
+00:01:59,200 --> 00:01:59,433
+tile floor (37%)
+tilt shift unstirred paint by RHADS (12%)
+vaporwave brick wall by John Atkinson Grimshaw (50%)
+
+211
+00:01:59,433 --> 00:01:59,666
+tile floor (37%)
+tilt shift unstirred paint by RHADS (25%)
+vaporwave brick wall by John Atkinson Grimshaw (37%)
+
+212
+00:01:59,666 --> 00:01:59,900
+tile floor (37%)
+tilt shift unstirred paint by RHADS (37%)
+vaporwave brick wall by John Atkinson Grimshaw (25%)
+
+213
+00:01:59,900 --> 00:02:01,666
+tile floor (37%)
+tilt shift unstirred paint by RHADS (62%)
+	
+
+214
+00:02:01,666 --> 00:02:01,900
+tile floor (37%)
+glass sculpture unstirred paint by Moebius (12%)
+tilt shift unstirred paint by RHADS (50%)
+
+215
+00:02:01,900 --> 00:02:02,133
+tile floor (37%)
+glass sculpture unstirred paint by Moebius (25%)
+tilt shift unstirred paint by RHADS (37%)
+
+216
+00:02:02,133 --> 00:02:02,366
+tile floor (37%)
+glass sculpture unstirred paint by Moebius (37%)
+tilt shift unstirred paint by RHADS (25%)
+
+217
+00:02:02,366 --> 00:02:03,400
+tile floor (37%)
+glass sculpture unstirred paint by Moebius (62%)
+	
+
+218
+00:02:03,400 --> 00:02:03,633
+tile floor (37%)
+flaming ice sculpture by Lauren Burch (12%)
+glass sculpture unstirred paint by Moebius (50%)
+
+219
+00:02:03,633 --> 00:02:03,866
+tile floor (37%)
+flaming ice sculpture by Lauren Burch (25%)
+glass sculpture unstirred paint by Moebius (37%)
+
+220
+00:02:03,866 --> 00:02:04,100
+tile floor (37%)
+flaming ice sculpture by Lauren Burch (37%)
+glass sculpture unstirred paint by Moebius (25%)
+
+221
+00:02:04,100 --> 00:02:05,433
+tile floor (37%)
+flaming ice sculpture by Lauren Burch (62%)
+	
+
+222
+00:02:05,433 --> 00:02:05,666
+giant cubes (37%)
+glass sculpture unstirred paint by Rebecca Guay (12%)
+flaming ice sculpture by Lauren Burch (50%)
+
+223
+00:02:05,666 --> 00:02:05,900
+giant cubes (37%)
+glass sculpture unstirred paint by Rebecca Guay (25%)
+flaming ice sculpture by Lauren Burch (37%)
+
+224
+00:02:05,900 --> 00:02:06,133
+giant cubes (37%)
+glass sculpture unstirred paint by Rebecca Guay (37%)
+flaming ice sculpture by Lauren Burch (25%)
+
+225
+00:02:06,133 --> 00:02:07,100
+giant cubes (37%)
+glass sculpture unstirred paint by Rebecca Guay (62%)
+	
+
+226
+00:02:07,100 --> 00:02:07,333
+giant cubes (37%)
+crayon country bar by Simon Stalenhag (12%)
+glass sculpture unstirred paint by Rebecca Guay (50%)
+
+227
+00:02:07,333 --> 00:02:07,566
+giant cubes (37%)
+crayon country bar by Simon Stalenhag (25%)
+glass sculpture unstirred paint by Rebecca Guay (37%)
+
+228
+00:02:07,566 --> 00:02:07,800
+giant cubes (37%)
+crayon country bar by Simon Stalenhag (37%)
+glass sculpture unstirred paint by Rebecca Guay (25%)
+
+229
+00:02:07,800 --> 00:02:08,866
+giant cubes (37%)
+crayon country bar by Simon Stalenhag (62%)
+	
+
+230
+00:02:08,866 --> 00:02:09,100
+giant cubes (37%)
+flaming brick wall by RHADS (12%)
+crayon country bar by Simon Stalenhag (50%)
+
+231
+00:02:09,100 --> 00:02:09,333
+giant cubes (37%)
+flaming brick wall by RHADS (25%)
+crayon country bar by Simon Stalenhag (37%)
+
+232
+00:02:09,333 --> 00:02:09,566
+giant cubes (37%)
+flaming brick wall by RHADS (37%)
+crayon country bar by Simon Stalenhag (25%)
+
+233
+00:02:09,566 --> 00:02:11,400
+giant cubes (37%)
+flaming brick wall by RHADS (62%)
+	
+
+234
+00:02:11,400 --> 00:02:11,633
+giant cubes (37%)
+tilt shift discotheque by Lauren Burch (12%)
+flaming brick wall by RHADS (50%)
+
+235
+00:02:11,633 --> 00:02:11,866
+giant cubes (37%)
+tilt shift discotheque by Lauren Burch (25%)
+flaming brick wall by RHADS (37%)
+
+236
+00:02:11,866 --> 00:02:12,100
+giant cubes (37%)
+tilt shift discotheque by Lauren Burch (37%)
+flaming brick wall by RHADS (25%)
+
+237
+00:02:12,100 --> 00:02:13,533
+giant cubes (37%)
+tilt shift discotheque by Lauren Burch (62%)
+	
+
+238
+00:02:13,533 --> 00:02:13,766
+giant cubes (37%)
+glass sculpture brick wall by Beeple (12%)
+tilt shift discotheque by Lauren Burch (50%)
+
+239
+00:02:13,766 --> 00:02:14,000
+giant cubes (37%)
+glass sculpture brick wall by Beeple (25%)
+tilt shift discotheque by Lauren Burch (37%)
+
+240
+00:02:14,000 --> 00:02:14,233
+giant cubes (37%)
+glass sculpture brick wall by Beeple (37%)
+tilt shift discotheque by Lauren Burch (25%)
+
+241
+00:02:14,233 --> 00:02:15,633
+giant cubes (37%)
+glass sculpture brick wall by Beeple (62%)
+	
+
+242
+00:02:15,633 --> 00:02:15,866
+giant cubes (37%)
+crayon country bar by Lauren Burch (12%)
+glass sculpture brick wall by Beeple (50%)
+
+243
+00:02:15,866 --> 00:02:16,100
+giant cubes (37%)
+crayon country bar by Lauren Burch (25%)
+glass sculpture brick wall by Beeple (37%)
+
+244
+00:02:16,100 --> 00:02:16,333
+giant cubes (37%)
+crayon country bar by Lauren Burch (37%)
+glass sculpture brick wall by Beeple (25%)
+
+245
+00:02:16,333 --> 00:02:17,900
+giant cubes (37%)
+crayon country bar by Lauren Burch (62%)
+	
+
+246
+00:02:17,900 --> 00:02:18,133
+dazzle camouflage (28%)
+flaming bears and unicycles by Lauren Burch (14%)
+crayon country bar by Lauren Burch (57%)
+
+247
+00:02:18,133 --> 00:02:18,366
+dazzle camouflage (28%)
+flaming bears and unicycles by Lauren Burch (28%)
+crayon country bar by Lauren Burch (42%)
+
+248
+00:02:18,366 --> 00:02:18,600
+dazzle camouflage (28%)
+flaming bears and unicycles by Lauren Burch (42%)
+crayon country bar by Lauren Burch (28%)
+
+249
+00:02:18,600 --> 00:02:19,666
+dazzle camouflage (28%)
+flaming bears and unicycles by Lauren Burch (71%)
+	
+
+250
+00:02:19,666 --> 00:02:19,900
+dazzle camouflage (28%)
+tilt shift country bar by RHADS (14%)
+flaming bears and unicycles by Lauren Burch (57%)
+
+251
+00:02:19,900 --> 00:02:20,133
+dazzle camouflage (28%)
+tilt shift country bar by RHADS (28%)
+flaming bears and unicycles by Lauren Burch (42%)
+
+252
+00:02:20,133 --> 00:02:20,366
+dazzle camouflage (28%)
+tilt shift country bar by RHADS (42%)
+flaming bears and unicycles by Lauren Burch (28%)
+
+253
+00:02:20,366 --> 00:02:21,700
+dazzle camouflage (28%)
+tilt shift country bar by RHADS (71%)
+	
+
+254
+00:02:21,700 --> 00:02:21,933
+dazzle camouflage (28%)
+crayon bears and unicycles by Moebius (14%)
+tilt shift country bar by RHADS (57%)
+
+255
+00:02:21,933 --> 00:02:22,166
+dazzle camouflage (28%)
+crayon bears and unicycles by Moebius (28%)
+tilt shift country bar by RHADS (42%)
+
+256
+00:02:22,166 --> 00:02:22,400
+dazzle camouflage (28%)
+crayon bears and unicycles by Moebius (42%)
+tilt shift country bar by RHADS (28%)
+
+257
+00:02:22,400 --> 00:02:23,800
+dazzle camouflage (28%)
+crayon bears and unicycles by Moebius (71%)
+	
+
+258
+00:02:23,800 --> 00:02:24,033
+dazzle camouflage (28%)
+vaporwave brick wall by Beeple (14%)
+crayon bears and unicycles by Moebius (57%)
+
+259
+00:02:24,033 --> 00:02:24,266
+dazzle camouflage (28%)
+vaporwave brick wall by Beeple (28%)
+crayon bears and unicycles by Moebius (42%)
+
+260
+00:02:24,266 --> 00:02:24,500
+dazzle camouflage (28%)
+vaporwave brick wall by Beeple (42%)
+crayon bears and unicycles by Moebius (28%)
+
+261
+00:02:24,500 --> 00:02:26,466
+dazzle camouflage (28%)
+vaporwave brick wall by Beeple (71%)
+	
+
+262
+00:02:26,466 --> 00:02:26,700
+dazzle camouflage (28%)
+glass sculpture ice sculpture by Simon Stalenhag (14%)
+vaporwave brick wall by Beeple (57%)
+
+263
+00:02:26,700 --> 00:02:26,933
+dazzle camouflage (28%)
+glass sculpture ice sculpture by Simon Stalenhag (28%)
+vaporwave brick wall by Beeple (42%)
+
+264
+00:02:26,933 --> 00:02:27,166
+dazzle camouflage (28%)
+glass sculpture ice sculpture by Simon Stalenhag (42%)
+vaporwave brick wall by Beeple (28%)
+
+265
+00:02:27,166 --> 00:02:28,433
+dazzle camouflage (28%)
+glass sculpture ice sculpture by Simon Stalenhag (71%)
+	
+
+266
+00:02:28,433 --> 00:02:28,666
+dazzle camouflage (28%)
+tilt shift unstirred paint by Lauren Burch (14%)
+glass sculpture ice sculpture by Simon Stalenhag (57%)
+
+267
+00:02:28,666 --> 00:02:28,900
+dazzle camouflage (28%)
+tilt shift unstirred paint by Lauren Burch (28%)
+glass sculpture ice sculpture by Simon Stalenhag (42%)
+
+268
+00:02:28,900 --> 00:02:29,133
+dazzle camouflage (28%)
+tilt shift unstirred paint by Lauren Burch (42%)
+glass sculpture ice sculpture by Simon Stalenhag (28%)
+
+269
+00:02:29,133 --> 00:02:30,400
+dazzle camouflage (28%)
+tilt shift unstirred paint by Lauren Burch (71%)
+	
+
+270
+00:02:30,400 --> 00:02:30,633
+dazzle camouflage (28%)
+glass sculpture brick wall by RHADS (14%)
+tilt shift unstirred paint by Lauren Burch (57%)
+
+271
+00:02:30,633 --> 00:02:30,866
+dazzle camouflage (28%)
+glass sculpture brick wall by RHADS (28%)
+tilt shift unstirred paint by Lauren Burch (42%)
+
+272
+00:02:30,866 --> 00:02:31,100
+dazzle camouflage (28%)
+glass sculpture brick wall by RHADS (42%)
+tilt shift unstirred paint by Lauren Burch (28%)
+
+273
+00:02:31,100 --> 00:02:32,766
+dazzle camouflage (28%)
+glass sculpture brick wall by RHADS (71%)
+	
+
+274
+00:02:32,766 --> 00:02:33,000
+wavy lines (28%)
+vaporwave discotheque by Lauren Burch (14%)
+glass sculpture brick wall by RHADS (57%)
+
+275
+00:02:33,000 --> 00:02:33,233
+wavy lines (28%)
+vaporwave discotheque by Lauren Burch (28%)
+glass sculpture brick wall by RHADS (42%)
+
+276
+00:02:33,233 --> 00:02:33,466
+wavy lines (28%)
+vaporwave discotheque by Lauren Burch (42%)
+glass sculpture brick wall by RHADS (28%)
+
+277
+00:02:33,466 --> 00:02:34,866
+wavy lines (28%)
+vaporwave discotheque by Lauren Burch (71%)
+	
+
+278
+00:02:34,866 --> 00:02:35,100
+wavy lines (28%)
+glass sculpture discotheque by Beeple (14%)
+vaporwave discotheque by Lauren Burch (57%)
+
+279
+00:02:35,100 --> 00:02:35,333
+wavy lines (28%)
+glass sculpture discotheque by Beeple (28%)
+vaporwave discotheque by Lauren Burch (42%)
+
+280
+00:02:35,333 --> 00:02:35,566
+wavy lines (28%)
+glass sculpture discotheque by Beeple (42%)
+vaporwave discotheque by Lauren Burch (28%)
+
+281
+00:02:35,566 --> 00:02:36,633
+wavy lines (28%)
+glass sculpture discotheque by Beeple (71%)
+	
+
+282
+00:02:36,633 --> 00:02:36,866
+wavy lines (28%)
+tilt shift brick wall by Moebius (14%)
+glass sculpture discotheque by Beeple (57%)
+
+283
+00:02:36,866 --> 00:02:37,100
+wavy lines (28%)
+tilt shift brick wall by Moebius (28%)
+glass sculpture discotheque by Beeple (42%)
+
+284
+00:02:37,100 --> 00:02:37,333
+wavy lines (28%)
+tilt shift brick wall by Moebius (42%)
+glass sculpture discotheque by Beeple (28%)
+
+285
+00:02:37,333 --> 00:02:39,200
+wavy lines (28%)
+tilt shift brick wall by Moebius (71%)
+	
+
+286
+00:02:39,200 --> 00:02:39,433
+wavy lines (28%)
+crayon unstirred paint by Lauren Burch (14%)
+tilt shift brick wall by Moebius (57%)
+
+287
+00:02:39,433 --> 00:02:39,666
+wavy lines (28%)
+crayon unstirred paint by Lauren Burch (28%)
+tilt shift brick wall by Moebius (42%)
+
+288
+00:02:39,666 --> 00:02:39,900
+wavy lines (28%)
+crayon unstirred paint by Lauren Burch (42%)
+tilt shift brick wall by Moebius (28%)
+
+289
+00:02:39,900 --> 00:02:41,500
+wavy lines (28%)
+crayon unstirred paint by Lauren Burch (71%)
+	
+
+290
+00:02:41,500 --> 00:02:41,733
+wavy lines (28%)
+vaporwave ice sculpture by Rebecca Guay (14%)
+crayon unstirred paint by Lauren Burch (57%)
+
+291
+00:02:41,733 --> 00:02:41,966
+wavy lines (28%)
+vaporwave ice sculpture by Rebecca Guay (28%)
+crayon unstirred paint by Lauren Burch (42%)
+
+292
+00:02:41,966 --> 00:02:42,200
+wavy lines (28%)
+vaporwave ice sculpture by Rebecca Guay (42%)
+crayon unstirred paint by Lauren Burch (28%)
+
+293
+00:02:42,200 --> 00:02:43,566
+wavy lines (28%)
+vaporwave ice sculpture by Rebecca Guay (71%)
+	
+
+294
+00:02:43,566 --> 00:02:43,800
+wavy lines (28%)
+glass sculpture unstirred paint by Beeple (14%)
+vaporwave ice sculpture by Rebecca Guay (57%)
+
+295
+00:02:43,800 --> 00:02:44,033
+wavy lines (28%)
+glass sculpture unstirred paint by Beeple (28%)
+vaporwave ice sculpture by Rebecca Guay (42%)
+
+296
+00:02:44,033 --> 00:02:44,266
+wavy lines (28%)
+glass sculpture unstirred paint by Beeple (42%)
+vaporwave ice sculpture by Rebecca Guay (28%)
+
+297
+00:02:44,266 --> 00:02:45,233
+wavy lines (28%)
+glass sculpture unstirred paint by Beeple (71%)
+	
+
+298
+00:02:45,233 --> 00:02:45,466
+orange triangles (28%)
+glass sculpture ice sculpture by Beeple (14%)
+glass sculpture unstirred paint by Beeple (57%)
+
+299
+00:02:45,466 --> 00:02:45,700
+orange triangles (28%)
+glass sculpture ice sculpture by Beeple (28%)
+glass sculpture unstirred paint by Beeple (42%)
+
+300
+00:02:45,700 --> 00:02:45,933
+orange triangles (28%)
+glass sculpture ice sculpture by Beeple (42%)
+glass sculpture unstirred paint by Beeple (28%)
+
+301
+00:02:45,933 --> 00:02:47,700
+orange triangles (28%)
+glass sculpture ice sculpture by Beeple (71%)
+	
+
+302
+00:02:47,700 --> 00:02:47,933
+orange triangles (28%)
+crayon discotheque by Lauren Burch (14%)
+glass sculpture ice sculpture by Beeple (57%)
+
+303
+00:02:47,933 --> 00:02:48,166
+orange triangles (28%)
+crayon discotheque by Lauren Burch (28%)
+glass sculpture ice sculpture by Beeple (42%)
+
+304
+00:02:48,166 --> 00:02:48,400
+orange triangles (28%)
+crayon discotheque by Lauren Burch (42%)
+glass sculpture ice sculpture by Beeple (28%)
+
+305
+00:02:48,400 --> 00:02:49,700
+orange triangles (28%)
+crayon discotheque by Lauren Burch (71%)
+	
+
+306
+00:02:49,700 --> 00:02:49,933
+orange triangles (28%)
+flaming discotheque by Moebius (14%)
+crayon discotheque by Lauren Burch (57%)
+
+307
+00:02:49,933 --> 00:02:50,166
+orange triangles (28%)
+flaming discotheque by Moebius (28%)
+crayon discotheque by Lauren Burch (42%)
+
+308
+00:02:50,166 --> 00:02:50,400
+orange triangles (28%)
+flaming discotheque by Moebius (42%)
+crayon discotheque by Lauren Burch (28%)
+
+309
+00:02:50,400 --> 00:02:51,733
+orange triangles (28%)
+flaming discotheque by Moebius (71%)
+	
+
+310
+00:02:51,733 --> 00:02:51,966
+orange triangles (28%)
+flaming brick wall by Rebecca Guay (14%)
+flaming discotheque by Moebius (57%)
+
+311
+00:02:51,966 --> 00:02:52,200
+orange triangles (28%)
+flaming brick wall by Rebecca Guay (28%)
+flaming discotheque by Moebius (42%)
+
+312
+00:02:52,200 --> 00:02:52,433
+orange triangles (28%)
+flaming brick wall by Rebecca Guay (42%)
+flaming discotheque by Moebius (28%)
+
+313
+00:02:52,433 --> 00:02:54,366
+orange triangles (28%)
+flaming brick wall by Rebecca Guay (71%)
+	
+
+314
+00:02:54,366 --> 00:02:54,600
+orange triangles (28%)
+flaming discotheque by Beeple (14%)
+flaming brick wall by Rebecca Guay (57%)
+
+315
+00:02:54,600 --> 00:02:54,833
+orange triangles (28%)
+flaming discotheque by Beeple (28%)
+flaming brick wall by Rebecca Guay (42%)
+
+316
+00:02:54,833 --> 00:02:55,066
+orange triangles (28%)
+flaming discotheque by Beeple (42%)
+flaming brick wall by Rebecca Guay (28%)
+
+317
+00:02:55,066 --> 00:02:56,700
+orange triangles (28%)
+flaming discotheque by Beeple (71%)
+	
+
+318
+00:02:56,700 --> 00:02:56,933
+orange triangles (28%)
+tilt shift bears and unicycles by Simon Stalenhag (14%)
+flaming discotheque by Beeple (57%)
+
+319
+00:02:56,933 --> 00:02:57,166
+orange triangles (28%)
+tilt shift bears and unicycles by Simon Stalenhag (28%)
+flaming discotheque by Beeple (42%)
+
+320
+00:02:57,166 --> 00:02:57,400
+orange triangles (28%)
+tilt shift bears and unicycles by Simon Stalenhag (42%)
+flaming discotheque by Beeple (28%)
+
+321
+00:02:57,400 --> 00:02:59,233
+orange triangles (28%)
+tilt shift bears and unicycles by Simon Stalenhag (71%)
+	
+
+322
+00:02:59,233 --> 00:02:59,466
+orange squares (28%)
+tilt shift country bar by Beeple (14%)
+tilt shift bears and unicycles by Simon Stalenhag (57%)
+
+323
+00:02:59,466 --> 00:02:59,700
+orange squares (28%)
+tilt shift country bar by Beeple (28%)
+tilt shift bears and unicycles by Simon Stalenhag (42%)
+
+324
+00:02:59,700 --> 00:02:59,933
+orange squares (28%)
+tilt shift country bar by Beeple (42%)
+tilt shift bears and unicycles by Simon Stalenhag (28%)
+
+325
+00:02:59,933 --> 00:03:01,433
+orange squares (28%)
+tilt shift country bar by Beeple (71%)
+	
+
+326
+00:03:01,433 --> 00:03:01,666
+orange squares (28%)
+vaporwave bears and unicycles by Lauren Burch (14%)
+tilt shift country bar by Beeple (57%)
+
+327
+00:03:01,666 --> 00:03:01,900
+orange squares (28%)
+vaporwave bears and unicycles by Lauren Burch (28%)
+tilt shift country bar by Beeple (42%)
+
+328
+00:03:01,900 --> 00:03:02,133
+orange squares (28%)
+vaporwave bears and unicycles by Lauren Burch (42%)
+tilt shift country bar by Beeple (28%)
+
+329
+00:03:02,133 --> 00:03:04,066
+orange squares (28%)
+vaporwave bears and unicycles by Lauren Burch (71%)
+	
+
+330
+00:03:04,066 --> 00:03:04,300
+orange squares (28%)
+vaporwave country bar by John Atkinson Grimshaw (14%)
+vaporwave bears and unicycles by Lauren Burch (57%)
+
+331
+00:03:04,300 --> 00:03:04,533
+orange squares (28%)
+vaporwave country bar by John Atkinson Grimshaw (28%)
+vaporwave bears and unicycles by Lauren Burch (42%)
+
+332
+00:03:04,533 --> 00:03:04,766
+orange squares (28%)
+vaporwave country bar by John Atkinson Grimshaw (42%)
+vaporwave bears and unicycles by Lauren Burch (28%)
+
+333
+00:03:04,766 --> 00:03:05,933
+orange squares (28%)
+vaporwave country bar by John Atkinson Grimshaw (71%)
+	
+
+334
+00:03:05,933 --> 00:03:06,166
+orange squares (28%)
+vaporwave brick wall by Rebecca Guay (14%)
+vaporwave country bar by John Atkinson Grimshaw (57%)
+
+335
+00:03:06,166 --> 00:03:06,400
+orange squares (28%)
+vaporwave brick wall by Rebecca Guay (28%)
+vaporwave country bar by John Atkinson Grimshaw (42%)
+
+336
+00:03:06,400 --> 00:03:06,633
+orange squares (28%)
+vaporwave brick wall by Rebecca Guay (42%)
+vaporwave country bar by John Atkinson Grimshaw (28%)
+
+337
+00:03:06,633 --> 00:03:07,666
+orange squares (28%)
+vaporwave brick wall by Rebecca Guay (71%)
+	
+
+338
+00:03:07,666 --> 00:03:07,900
+orange squares (28%)
+tilt shift brick wall by Moebius (14%)
+vaporwave brick wall by Rebecca Guay (57%)
+
+339
+00:03:07,900 --> 00:03:08,133
+orange squares (28%)
+tilt shift brick wall by Moebius (28%)
+vaporwave brick wall by Rebecca Guay (42%)
+
+340
+00:03:08,133 --> 00:03:08,366
+orange squares (28%)
+tilt shift brick wall by Moebius (42%)
+vaporwave brick wall by Rebecca Guay (28%)
+
+341
+00:03:08,366 --> 00:03:09,866
+orange squares (28%)
+tilt shift brick wall by Moebius (71%)
+	
+
+342
+00:03:09,866 --> 00:03:10,100
+orange squares (28%)
+vaporwave unstirred paint by Lauren Burch (14%)
+tilt shift brick wall by Moebius (57%)
+
+343
+00:03:10,100 --> 00:03:10,333
+orange squares (28%)
+vaporwave unstirred paint by Lauren Burch (28%)
+tilt shift brick wall by Moebius (42%)
+
+344
+00:03:10,333 --> 00:03:10,566
+orange squares (28%)
+vaporwave unstirred paint by Lauren Burch (42%)
+tilt shift brick wall by Moebius (28%)
+
+345
+00:03:10,566 --> 00:03:11,933
+orange squares (28%)
+vaporwave unstirred paint by Lauren Burch (71%)
+	
+
+346
+00:03:11,933 --> 00:03:12,166
+giant polka dots (28%)
+tilt shift bears and unicycles by Moebius (14%)
+vaporwave unstirred paint by Lauren Burch (57%)
+
+347
+00:03:12,166 --> 00:03:12,400
+giant polka dots (28%)
+tilt shift bears and unicycles by Moebius (28%)
+vaporwave unstirred paint by Lauren Burch (42%)
+
+348
+00:03:12,400 --> 00:03:12,633
+giant polka dots (28%)
+tilt shift bears and unicycles by Moebius (42%)
+vaporwave unstirred paint by Lauren Burch (28%)
+
+349
+00:03:12,633 --> 00:03:13,600
+giant polka dots (28%)
+tilt shift bears and unicycles by Moebius (71%)
+	
+
+350
+00:03:13,600 --> 00:03:13,833
+giant polka dots (28%)
+vaporwave bears and unicycles by Moebius (14%)
+tilt shift bears and unicycles by Moebius (57%)
+
+351
+00:03:13,833 --> 00:03:14,066
+giant polka dots (28%)
+vaporwave bears and unicycles by Moebius (28%)
+tilt shift bears and unicycles by Moebius (42%)
+
+352
+00:03:14,066 --> 00:03:14,300
+giant polka dots (28%)
+vaporwave bears and unicycles by Moebius (42%)
+tilt shift bears and unicycles by Moebius (28%)
+
+353
+00:03:14,300 --> 00:03:16,133
+giant polka dots (28%)
+vaporwave bears and unicycles by Moebius (71%)
+	
+
+354
+00:03:16,133 --> 00:03:16,366
+giant polka dots (28%)
+tilt shift country bar by Lauren Burch (14%)
+vaporwave bears and unicycles by Moebius (57%)
+
+355
+00:03:16,366 --> 00:03:16,600
+giant polka dots (28%)
+tilt shift country bar by Lauren Burch (28%)
+vaporwave bears and unicycles by Moebius (42%)
+
+356
+00:03:16,600 --> 00:03:16,833
+giant polka dots (28%)
+tilt shift country bar by Lauren Burch (42%)
+vaporwave bears and unicycles by Moebius (28%)
+
+357
+00:03:16,833 --> 00:03:18,533
+giant polka dots (28%)
+tilt shift country bar by Lauren Burch (71%)
+	
+
+358
+00:03:18,533 --> 00:03:18,766
+giant polka dots (28%)
+glass sculpture unstirred paint by Beeple (14%)
+tilt shift country bar by Lauren Burch (57%)
+
+359
+00:03:18,766 --> 00:03:19,000
+giant polka dots (28%)
+glass sculpture unstirred paint by Beeple (28%)
+tilt shift country bar by Lauren Burch (42%)
+
+360
+00:03:19,000 --> 00:03:19,233
+giant polka dots (28%)
+glass sculpture unstirred paint by Beeple (42%)
+tilt shift country bar by Lauren Burch (28%)
+
+361
+00:03:19,233 --> 00:03:21,000
+giant polka dots (28%)
+glass sculpture unstirred paint by Beeple (71%)
+	
+
+362
+00:03:21,000 --> 00:03:21,233
+giant polka dots (28%)
+tilt shift bears and unicycles by Rebecca Guay (14%)
+glass sculpture unstirred paint by Beeple (57%)
+
+363
+00:03:21,233 --> 00:03:21,466
+giant polka dots (28%)
+tilt shift bears and unicycles by Rebecca Guay (28%)
+glass sculpture unstirred paint by Beeple (42%)
+
+364
+00:03:21,466 --> 00:03:21,700
+giant polka dots (28%)
+tilt shift bears and unicycles by Rebecca Guay (42%)
+glass sculpture unstirred paint by Beeple (28%)
+
+365
+00:03:21,700 --> 00:03:23,300
+giant polka dots (28%)
+tilt shift bears and unicycles by Rebecca Guay (71%)
+	
+
+366
+00:03:23,300 --> 00:03:23,533
+giant polka dots (28%)
+flaming ice sculpture by John Atkinson Grimshaw (14%)
+tilt shift bears and unicycles by Rebecca Guay (57%)
+
+367
+00:03:23,533 --> 00:03:23,766
+giant polka dots (28%)
+flaming ice sculpture by John Atkinson Grimshaw (28%)
+tilt shift bears and unicycles by Rebecca Guay (42%)
+
+368
+00:03:23,766 --> 00:03:24,000
+giant polka dots (28%)
+flaming ice sculpture by John Atkinson Grimshaw (42%)
+tilt shift bears and unicycles by Rebecca Guay (28%)
+
+369
+00:03:24,000 --> 00:03:25,133
+giant polka dots (28%)
+flaming ice sculpture by John Atkinson Grimshaw (71%)
+	
+
+370
+00:03:25,133 --> 00:03:25,366
+giant polka dots (28%)
+crayon country bar by RHADS (14%)
+flaming ice sculpture by John Atkinson Grimshaw (57%)
+
+371
+00:03:25,366 --> 00:03:25,600
+giant polka dots (28%)
+crayon country bar by RHADS (28%)
+flaming ice sculpture by John Atkinson Grimshaw (42%)
+
+372
+00:03:25,600 --> 00:03:25,833
+giant polka dots (28%)
+crayon country bar by RHADS (42%)
+flaming ice sculpture by John Atkinson Grimshaw (28%)
+
+373
+00:03:25,833 --> 00:03:27,066
+giant polka dots (28%)
+crayon country bar by RHADS (71%)
+	
+
+374
+00:03:27,066 --> 00:03:27,300
+giant polka dots (28%)
+crayon discotheque by Rebecca Guay (14%)
+crayon country bar by RHADS (57%)
+
+375
+00:03:27,300 --> 00:03:27,533
+giant polka dots (28%)
+crayon discotheque by Rebecca Guay (28%)
+crayon country bar by RHADS (42%)
+
+376
+00:03:27,533 --> 00:03:27,766
+giant polka dots (28%)
+crayon discotheque by Rebecca Guay (42%)
+crayon country bar by RHADS (28%)
+
+377
+00:03:27,766 --> 00:03:29,566
+giant polka dots (28%)
+crayon discotheque by Rebecca Guay (71%)
+	
+
+378
+00:03:29,566 --> 00:03:29,800
+giant polka dots (28%)
+vaporwave brick wall by RHADS (14%)
+crayon discotheque by Rebecca Guay (57%)
+
+379
+00:03:29,800 --> 00:03:30,033
+giant polka dots (28%)
+vaporwave brick wall by RHADS (28%)
+crayon discotheque by Rebecca Guay (42%)
+
+380
+00:03:30,033 --> 00:03:30,266
+giant polka dots (28%)
+vaporwave brick wall by RHADS (42%)
+crayon discotheque by Rebecca Guay (28%)
+
+381
+00:03:30,266 --> 00:03:31,533
+giant polka dots (28%)
+vaporwave brick wall by RHADS (71%)
+	
+
+382
+00:03:31,533 --> 00:03:31,766
+giant polka dots (28%)
+glass sculpture brick wall by John Atkinson Grimshaw (14%)
+vaporwave brick wall by RHADS (57%)
+
+383
+00:03:31,766 --> 00:03:32,000
+giant polka dots (28%)
+glass sculpture brick wall by John Atkinson Grimshaw (28%)
+vaporwave brick wall by RHADS (42%)
+
+384
+00:03:32,000 --> 00:03:32,233
+giant polka dots (28%)
+glass sculpture brick wall by John Atkinson Grimshaw (42%)
+vaporwave brick wall by RHADS (28%)
+
+385
+00:03:32,233 --> 00:03:33,533
+giant polka dots (28%)
+glass sculpture brick wall by John Atkinson Grimshaw (71%)
+	
+
+386
+00:03:33,533 --> 00:03:33,766
+giant polka dots (28%)
+flaming unstirred paint by Moebius (14%)
+glass sculpture brick wall by John Atkinson Grimshaw (57%)
+
+387
+00:03:33,766 --> 00:03:34,000
+giant polka dots (28%)
+flaming unstirred paint by Moebius (28%)
+glass sculpture brick wall by John Atkinson Grimshaw (42%)
+
+388
+00:03:34,000 --> 00:03:34,233
+giant polka dots (28%)
+flaming unstirred paint by Moebius (42%)
+glass sculpture brick wall by John Atkinson Grimshaw (28%)
+
+389
+00:03:34,233 --> 00:03:36,166
+giant polka dots (28%)
+flaming unstirred paint by Moebius (71%)
+	
+
+390
+00:03:36,166 --> 00:03:36,400
+giant polka dots (28%)
+vaporwave brick wall by Simon Stalenhag (14%)
+flaming unstirred paint by Moebius (57%)
+
+391
+00:03:36,400 --> 00:03:36,633
+giant polka dots (28%)
+vaporwave brick wall by Simon Stalenhag (28%)
+flaming unstirred paint by Moebius (42%)
+
+392
+00:03:36,633 --> 00:03:36,866
+giant polka dots (28%)
+vaporwave brick wall by Simon Stalenhag (42%)
+flaming unstirred paint by Moebius (28%)
+
+393
+00:03:36,866 --> 00:03:38,566
+giant polka dots (28%)
+vaporwave brick wall by Simon Stalenhag (71%)
+	
+
+394
+00:03:38,566 --> 00:03:38,800
+giant polka dots (28%)
+crayon unstirred paint by Moebius (14%)
+vaporwave brick wall by Simon Stalenhag (57%)
+
+395
+00:03:38,800 --> 00:03:39,033
+giant polka dots (28%)
+crayon unstirred paint by Moebius (28%)
+vaporwave brick wall by Simon Stalenhag (42%)
+
+396
+00:03:39,033 --> 00:03:39,266
+giant polka dots (28%)
+crayon unstirred paint by Moebius (42%)
+vaporwave brick wall by Simon Stalenhag (28%)
+
+397
+00:03:39,266 --> 00:03:41,200
+giant polka dots (28%)
+crayon unstirred paint by Moebius (71%)
+	
+
+398
+00:03:41,200 --> 00:03:41,433
+giant polka dots (28%)
+flaming discotheque by Rebecca Guay (14%)
+crayon unstirred paint by Moebius (57%)
+
+399
+00:03:41,433 --> 00:03:41,666
+giant polka dots (28%)
+flaming discotheque by Rebecca Guay (28%)
+crayon unstirred paint by Moebius (42%)
+
+400
+00:03:41,666 --> 00:03:41,900
+giant polka dots (28%)
+flaming discotheque by Rebecca Guay (42%)
+crayon unstirred paint by Moebius (28%)
+
+401
+00:03:41,900 --> 00:03:43,100
+giant polka dots (28%)
+flaming discotheque by Rebecca Guay (71%)
+	
+
+402
+00:03:43,100 --> 00:03:43,333
+giant polka dots (28%)
+vaporwave country bar by John Atkinson Grimshaw (14%)
+flaming discotheque by Rebecca Guay (57%)
+
+403
+00:03:43,333 --> 00:03:43,566
+giant polka dots (28%)
+vaporwave country bar by John Atkinson Grimshaw (28%)
+flaming discotheque by Rebecca Guay (42%)
+
+404
+00:03:43,566 --> 00:03:43,800
+giant polka dots (28%)
+vaporwave country bar by John Atkinson Grimshaw (42%)
+flaming discotheque by Rebecca Guay (28%)
+
+405
+00:03:43,800 --> 00:03:45,133
+giant polka dots (28%)
+vaporwave country bar by John Atkinson Grimshaw (71%)
+	
+
+406
+00:03:45,133 --> 00:03:45,366
+giant polka dots (28%)
+tilt shift bears and unicycles by Beeple (14%)
+vaporwave country bar by John Atkinson Grimshaw (57%)
+
+407
+00:03:45,366 --> 00:03:45,600
+giant polka dots (28%)
+tilt shift bears and unicycles by Beeple (28%)
+vaporwave country bar by John Atkinson Grimshaw (42%)
+
+408
+00:03:45,600 --> 00:03:45,833
+giant polka dots (28%)
+tilt shift bears and unicycles by Beeple (42%)
+vaporwave country bar by John Atkinson Grimshaw (28%)
+
+409
+00:03:45,833 --> 00:03:47,300
+giant polka dots (28%)
+tilt shift bears and unicycles by Beeple (71%)
+	
+
+410
+00:03:47,300 --> 00:03:47,533
+giant polka dots (28%)
+tilt shift discotheque by John Atkinson Grimshaw (14%)
+tilt shift bears and unicycles by Beeple (57%)
+
+411
+00:03:47,533 --> 00:03:47,766
+giant polka dots (28%)
+tilt shift discotheque by John Atkinson Grimshaw (28%)
+tilt shift bears and unicycles by Beeple (42%)
+
+412
+00:03:47,766 --> 00:03:48,000
+giant polka dots (28%)
+tilt shift discotheque by John Atkinson Grimshaw (42%)
+tilt shift bears and unicycles by Beeple (28%)
+
+413
+00:03:48,000 --> 00:03:49,600
+giant polka dots (28%)
+tilt shift discotheque by John Atkinson Grimshaw (71%)
+	
+
+414
+00:03:49,600 --> 00:03:49,833
+giant polka dots (28%)
+glass sculpture bears and unicycles by Moebius (14%)
+tilt shift discotheque by John Atkinson Grimshaw (57%)
+
+415
+00:03:49,833 --> 00:03:50,066
+giant polka dots (28%)
+glass sculpture bears and unicycles by Moebius (28%)
+tilt shift discotheque by John Atkinson Grimshaw (42%)
+
+416
+00:03:50,066 --> 00:03:50,300
+giant polka dots (28%)
+glass sculpture bears and unicycles by Moebius (42%)
+tilt shift discotheque by John Atkinson Grimshaw (28%)
+
+417
+00:03:50,300 --> 00:03:51,266
+giant polka dots (28%)
+glass sculpture bears and unicycles by Moebius (71%)
+	
+
+418
+00:03:51,266 --> 00:03:51,500
+giant polka dots (28%)
+crayon unstirred paint by Simon Stalenhag (14%)
+glass sculpture bears and unicycles by Moebius (57%)
+
+419
+00:03:51,500 --> 00:03:51,733
+giant polka dots (28%)
+crayon unstirred paint by Simon Stalenhag (28%)
+glass sculpture bears and unicycles by Moebius (42%)
+
+420
+00:03:51,733 --> 00:03:51,966
+giant polka dots (28%)
+crayon unstirred paint by Simon Stalenhag (42%)
+glass sculpture bears and unicycles by Moebius (28%)
+
+421
+00:03:51,966 --> 00:03:53,533
+giant polka dots (28%)
+crayon unstirred paint by Simon Stalenhag (71%)
+	
+
+422
+00:03:53,533 --> 00:03:53,766
+giant polka dots (28%)
+vaporwave country bar by RHADS (14%)
+crayon unstirred paint by Simon Stalenhag (57%)
+
+423
+00:03:53,766 --> 00:03:54,000
+giant polka dots (28%)
+vaporwave country bar by RHADS (28%)
+crayon unstirred paint by Simon Stalenhag (42%)
+
+424
+00:03:54,000 --> 00:03:54,233
+giant polka dots (28%)
+vaporwave country bar by RHADS (42%)
+crayon unstirred paint by Simon Stalenhag (28%)
+
+425
+00:03:54,233 --> 00:03:55,966
+giant polka dots (28%)
+vaporwave country bar by RHADS (71%)
+	
+
+426
+00:03:55,966 --> 00:03:56,200
+giant polka dots (28%)
+glass sculpture unstirred paint by Simon Stalenhag (14%)
+vaporwave country bar by RHADS (57%)
+
+427
+00:03:56,200 --> 00:03:56,433
+giant polka dots (28%)
+glass sculpture unstirred paint by Simon Stalenhag (28%)
+vaporwave country bar by RHADS (42%)
+
+428
+00:03:56,433 --> 00:03:56,666
+giant polka dots (28%)
+glass sculpture unstirred paint by Simon Stalenhag (42%)
+vaporwave country bar by RHADS (28%)
+
+

@@ -1,0 +1,40 @@
+# https://www.youtube.com/watch?v=Mo_TWgTC4Ts seed 9314
+# https://studio.youtube.com/video/nBuYID3Rd20/edit seed 79314 and runs to 9000+ frames.
+
+00000 RP SEED 9314
+00000 RP ARTISTS ['Lauren Burch', 'Simon Stalenhag', 'Beeple', 'Rebecca Guay', 'RHADS', 'Moebius', 'John Atkinson Grimshaw' ]
+00000 RP MODIFIERS ['vaporwave', 'tilt shift', 'glass sculpture', 'crayon', 'flaming']
+00000 RP SUBJECTS ['unstirred paint', 'brick wall', 'ice sculpture', 'discotheque', 'country bar', 'bears and unicycles']
+00000 RP CYCLE 50-80
+00000 RP FADE [7, 14, 21, 28]
+00000 RP WEIGHT 5
+00000 RP ON
+
+00000 RC SEED 9314
+00000 RC X_TRANS -4 4
+00000 RC Y_TRANS -2 2
+00000 RC Z_TRANS 6 6
+00000 RC X_CAM -0.8 0.8
+00000 RC Y_CAM -0.285 0.285 
+00000 RC Z_CAM -0.4 0.4
+00000 RC COUNTERANGLE -0.5
+00000 RC ZOOM 1.0 1.4
+00000 RC CYCLE 70-120
+00000 RC ON
+
+00000 RP BACKGROUND ['plaid tartan']
+00400 RP BACKGROUND ['polka dots']
+00800 RP BACKGROUND ['dazzle camouflage']
+01200 RP BACKGROUND ['wavy lines']
+01600 RP BACKGROUND ['tiny squares']
+02000 RP BACKGROUND ['orange triangles']
+02400 RP BACKGROUND ['blue squares']
+02800 RP BACKGROUND ['multicolored octagons']
+03200 RP BACKGROUND ['tile floor:3']
+03600 RP BACKGROUND ['giant cubes:3']
+04000 RP BACKGROUND ['dazzle camouflage:2']
+04400 RP BACKGROUND ['wavy lines:2']
+04800 RP BACKGROUND ['orange triangles:2']
+05200 RP BACKGROUND ['orange squares:2']
+05600 RP BACKGROUND ['giant polka dots:2']
+07000 RP OFF
