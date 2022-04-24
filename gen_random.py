@@ -1,8 +1,8 @@
 from ast import literal_eval
 from discokeyframe import Keyframer
 from event_generator import EventGenerator
-
 from random import Random
+from typing import List
 
 class RandomPrompt(EventGenerator):
   """Create a progression of random prompts.
@@ -14,6 +14,9 @@ class RandomPrompt(EventGenerator):
   00000 RP ARTISTS ['Yayoi Kusama']
   00000 RP MODIFIERS ['vaporwave']
   00000 RP SUBJECTS ['house']
+  00000 RP SUBJECTS_PICK 2
+  00000 RP MODIFIERS_PICK 2
+  00000 RP ARTISTS_PICK 2
   # This will rotate prompts on a 50-100 frame schedule.
   00000 RP CYCLE 50-100
   # A new prompt will fade in on this schedule.
@@ -33,6 +36,10 @@ class RandomPrompt(EventGenerator):
     self.artists = []
     self.modifiers = []
     self.subjects = []
+    self.styles = []
+    self.artists_count = 1
+    self.modifiers_count = 1
+    self.subjects_count = 1
     self.current_prompt = None
     self.prompt_weight = 1
     self.prompt_cycle = [0, 0]
@@ -61,10 +68,20 @@ class RandomPrompt(EventGenerator):
       self.background_prompts = literal_eval(subargs)
     elif subcommand == 'ARTISTS':
       self.artists = literal_eval(subargs)
+    elif subcommand == 'ARTISTS_PICK':
+      self.artists_count = int(subargs)
     elif subcommand == 'MODIFIERS':
       self.modifiers = literal_eval(subargs)
+    elif subcommand == 'MODIFIERS_PICK':
+      self.modifiers_count = int(subargs)
     elif subcommand == 'SUBJECTS':
       self.subjects = literal_eval(subargs)
+    elif subcommand == 'SUBJECTS_PICK':
+      self.subjects_count = literal_eval(subargs)
+    elif subcommand == 'STYLES':
+      self.styles = literal_eval(subargs)
+    elif subcommand == 'STYLES_PICK':
+      self.styles_count = literal_eval(subargs)
     elif subcommand == 'CYCLE':
       di = subargs.index('-')
       if di >= 0:
@@ -84,7 +101,6 @@ class RandomPrompt(EventGenerator):
       return
     self.prompt_tick -= 1
     if self.prompt_tick <= 0:
-      print(f'@ {frame} ==> {self.prompt_tick} {self.prompt_cycle}')
       next_prompt = self.generate_random_prompt()
       if self.current_prompt:
         if self.prompt_fade: 
@@ -106,16 +122,23 @@ class RandomPrompt(EventGenerator):
         frame_prompt.append(f'{next_prompt}:{self.prompt_weight}')
         framer.add_prompt(frame, frame_prompt)
 
-      print(f'{self.current_prompt} ==: {next_prompt}')
       self.current_prompt = next_prompt
       self.prompt_tick = self.random.randint(*self.prompt_cycle)
-      print(f'Prompt tick is now {self.prompt_tick}')
+
+  def random_sample(self, values: List[str], expected_count: float) -> List[str]:
+    prob = expected_count / len(values)
+    nl = [ v for v in values if self.random.random() < prob ]
+    if nl:
+      return nl
+    else:
+      return [self.random.choice(values)]
 
   def generate_random_prompt(self) -> str:
-    subj = self.random.choice(self.subjects)
-    mod = self.random.choice(self.modifiers)
-    artist = self.random.choice(self.artists)
-    return f'{mod} {subj} by {artist}'
+    subj = ' and '.join(self.random_sample(self.subjects, self.subjects_count))
+    mod = ' and '.join(self.random.sample(self.modifiers, self.modifiers_count))
+    artist = ' and '.join(self.random.sample(self.artists, self.artists_count))
+    styles = ','.join(self.random.sample(self.styles, self.styles_count))
+    return f'{mod} {subj} by {artist}, {styles}'
 
 def _read_float_range(arg):
   i = arg.index(' ')

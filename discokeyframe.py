@@ -53,7 +53,10 @@ class Keyframer:
         continue
       m = re.match(r'[0]*(\d+)\s+(\w+)(?:\s+(.*))?', line)
       if m:
-        self.add_command(int(m.group(1)), m.group(2), m.group(3).strip())
+        if m.group(3):
+          self.add_command(int(m.group(1)), m.group(2), m.group(3).strip())
+        else:
+          self.add_command(int(m.group(1)), m.group(2), '')
 
   def add_command(self, frame:int, command: str, arg: str) -> None:
     for fr in range(self.frame, frame):
@@ -149,6 +152,7 @@ class Keyframer:
 
   def get_z_translates(self) -> str:
     return ','.join(self.z_translate)
+
 
 _float_re = '[-+]?(?:\d+(?:\.\d*)?|\.\d+)'
 _int_re = '[-+]?\d+'

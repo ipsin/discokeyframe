@@ -1,0 +1,29 @@
+# B seed 27014
+# F seed 37014
+00000 RP SEED 27014
+00000 RP ARTISTS ['Ai Weiwei', 'Alena Aenami', 'Alex Gray', 'Eleanor Vere Boyle', 'Ernst Fuchs', 'Evelyn de Morgan', 'Giuseppe Arcimboldo', 'Johfra Bosschart', 'Ron Walotsky' ]
+00000 RP ARTISTS_PICK 2
+00000 RP MODIFIERS ['dripping', 'exploding', 'crowded', 'wavy', 'wet', 'shattered', 'dissolving']
+00000 RP MODIFIERS_PICK 1
+00000 RP SUBJECTS ['field of giant mushrooms', 'scenic mountains', 'beach at sunset', 'traffic jam', 'field of flowers', 'soldiers at rest', 'strange machines' ]
+00000 RP SUBJECTS_PICK 2
+00000 RP STYLES ['8k resolution', '8k 3D', 'trending on ArtStation', 'concept art', 'photoillustration', 'HDR', 'Booru', 'hyperrealism', 'tilt shift', 'volumetric lighting']
+00000 RP STYLES_PICK 1
+00000 RP CYCLE 150-150
+00000 RP FADE []
+00000 RP WEIGHT 1
+00000 RP ON
+
+00000 RC SEED 27014
+00000 RC X_TRANS -4 4
+00000 RC Y_TRANS -2 2
+00000 RC Z_TRANS 6 6
+00000 RC X_CAM -0.8 0.8
+00000 RC Y_CAM -0.285 0.285
+00000 RC Z_CAM -0.5 0.5
+00000 RC COUNTERANGLE -0.5
+00000 RC ZOOM 1.0 1.1
+00000 RC CYCLE 70-120
+00000 RC ON
+
+07000 RP OFF

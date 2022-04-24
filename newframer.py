@@ -1,5 +1,6 @@
 import re
 from discokeyframe import Keyframer
+from textwrap import wrap
 
 framer = Keyframer()
 
@@ -50,16 +51,16 @@ def gen_srt(framer, pad_lines=3, cap_seq = 1, offset=150, fps=30) -> str:
     if cap:
       print(seq)
       print(f'{srt_time(last_frame, fps)} --> {srt_time(k + offset, fps)}')
-      print(cap)
-      seq += 1
+      nl = wrap(cap)
+      print('\n'.join(nl))
+      seq += len(nl)
       cap = None
       last_frame = k + offset
     cap = gen_caption(tp[k], pad_lines)
 
   return r
 
-with open('scripts/capchoice.txt', 'r') as f:
+with open('scripts/multiprompt.txt', 'r') as f:
   framer.read_script(f.read())
 
-print(framer.get_prompts())
 print(gen_srt(framer, pad_lines=1, cap_seq=1, offset=150, fps=30))
