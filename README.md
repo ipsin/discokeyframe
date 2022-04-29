@@ -16,3 +16,7 @@ Manage your camera controls for [Disco Diffusion v5](https://colab.research.goog
 
 Two coming features I'd like to be able to control are random camera (RC) and random prompt (RP).
 How does this work?  Every time
+
+Subtitling your own video:
+
+ffmpeg -i Video.mp4 -vf subtitles=brunner.srt Video-sub.mp4
