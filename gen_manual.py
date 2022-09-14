@@ -79,7 +79,7 @@ class ManualCameraTranslate(EventGenerator):
       self.y_translate = float(m.group(2))
       self.z_translate = float(m.group(3))
     else:
-      raise Exception(f'Invalid camera translate: {input}')
+      raise Exception(f'Invalid camera translate: {arg}')
     return True
 
   def advance(self, framer: Keyframer, frame:int) -> None:
@@ -93,3 +93,21 @@ class ManualCameraTranslate(EventGenerator):
       framer.add_z_translate(frame, self.z_translate)
       self.z_translate = None
 
+class ManualSeed(EventGenerator):
+  def __init__(self):
+    self.seed = None
+
+  def accept(self, command: str, arg:str) -> bool:
+    if command != 'S':
+      return False
+    m = re.match(rf'({_int_re})', arg)
+    if m:
+      self.seed = int(m.group(1))
+    else:
+      raise Exception(f'Invalid seed: {arg}')
+    return True
+
+  def advance(self, framer: Keyframer, frame:int) -> None:
+    if self.seed:
+      framer.add_seed(frame, self.seed)
+      self.seed = None

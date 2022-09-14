@@ -22,16 +22,17 @@ class Keyframer:
   """Generates camera and prompt details for a DiscoDiffusion (DD) v5 or DD Turbo v5 notebook."""
 
   def __init__(self):
-    from gen_manual import ManualPrompt, ManualZoom, ManualCameraRotate, ManualCameraTranslate
-    from gen_random import RandomPrompt, RandomCamera
+    from gen_manual import ManualPrompt, ManualZoom, ManualCameraRotate, ManualCameraTranslate, ManualSeed
+    from gen_random import RandomPrompt, RandomCamera, RandomSeed
     self.frame = -1
     self.current_prompt = None
     self.camera = CameraSettings()
     self.prompts = {}
+    self.seed = None
     self.prompt = None
     self.generators = [
-      ManualPrompt(), ManualZoom(), ManualCameraRotate(), ManualCameraTranslate(),
-      RandomPrompt(), RandomCamera()
+      ManualPrompt(), ManualZoom(), ManualCameraRotate(), ManualCameraTranslate(), ManualSeed(),
+      RandomPrompt(), RandomCamera(), RandomSeed()
     ]  
     self.x_translate = []
     self.y_translate = []
@@ -41,6 +42,7 @@ class Keyframer:
     self.z_rotate = []
     self.angle = []
     self.zoom = []
+    self.seeds = {}
 
   @property
   def get_frame(self) -> int:
@@ -77,6 +79,11 @@ class Keyframer:
     if self.prompt != prompt:
       self.prompts[frame] = prompt
       self.prompt = prompt
+
+  def add_seed(self, frame: int, seed: int) -> None:
+    if self.seed != seed:
+      self.seeds[frame] = seed
+      self.seed = seed
 
   def add_x_translate(self, frame: int, value: float) -> None:
     nv = f'{value:.2g}'
@@ -128,6 +135,9 @@ class Keyframer:
 
   def get_prompts(self) -> Dict[int, List[str]]:
     return self.prompts
+
+  def get_seeds(self) -> Dict[int, int]:
+    return self.seeds
 
   def get_angles(self) -> str:
     return ','.join(self.angle)

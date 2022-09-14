@@ -40,6 +40,7 @@ class RandomPrompt(EventGenerator):
     self.artists_count = 1
     self.modifiers_count = 1
     self.subjects_count = 1
+    self.styles_count = 0
     self.current_prompt = None
     self.prompt_weight = 1
     self.prompt_cycle = [0, 0]
@@ -137,8 +138,11 @@ class RandomPrompt(EventGenerator):
     subj = ' and '.join(self.random_sample(self.subjects, self.subjects_count))
     mod = ' and '.join(self.random.sample(self.modifiers, self.modifiers_count))
     artist = ' and '.join(self.random.sample(self.artists, self.artists_count))
-    styles = ','.join(self.random.sample(self.styles, self.styles_count))
-    return f'{mod} {subj} by {artist}, {styles}'
+    if self.styles and self.styles_count > 0:
+      styles = ','.join(self.random.sample(self.styles, self.styles_count))
+      return f'{mod} {subj} by {artist}, {styles}'
+    else:
+      return f'{mod} {subj} by {artist}'
 
 def _read_float_range(arg):
   i = arg.index(' ')
@@ -146,6 +150,56 @@ def _read_float_range(arg):
     return [float(arg[:i]), float(arg[i+1:])]
   else:
     raise Exception(f'Invalid range pair: {arg} ({i})')
+
+class RandomSeed(EventGenerator):
+  """Create random camera transitions based on specified ranges.
+  00000 RS SEED 1234
+  00000 RS CYCLE 70-150
+  00000 RS ON
+  00200 RS OFF
+  """
+  def __init__(self):
+    self.enabled = False
+    self.random = Random(0)
+    self.seed_cycle = [100, 100]
+    self.seed_tick = 0
+  
+  def accept(self, command:str, arg:str) -> bool:
+    if command != 'RS':
+      return False
+    arg = arg.strip()
+    if arg == 'ON':
+      self.enabled = True
+      return True
+    elif arg == 'OFF':
+      self.enabled = False
+      return True
+    elif ' ' not in arg:
+      raise Exception(f'Invalid subcommand {arg}')
+    sp = arg.index(' ')
+    subcommand = arg[:sp]
+    subargs = arg[sp + 1:].strip()
+
+    if subcommand == 'SEED':
+      self.random = Random(int(subargs))
+    elif subcommand == 'CYCLE':
+      di = subargs.index('-')
+      if di >= 0:
+        self.seed_cycle = [int(subargs[:di]), int(subargs[di+1:])]
+      else:
+        self.seed_cycle = [int(subargs), int(subargs)]
+    else:
+      raise Exception(f'Unknown subcommand {subcommand}')
+    return True 
+
+  def advance(self, framer: Keyframer, frame:int) -> None:
+    if not self.enabled:
+      return
+    self.seed_tick -= 1
+    if self.seed_tick <= 0:
+      framer.add_seed(frame, self.random.randint(0, 100000000))
+      self.seed_tick = self.random.randint(*self.seed_cycle)
+
 
 class RandomCamera(EventGenerator):
   """Create random camera transitions based on specified ranges.

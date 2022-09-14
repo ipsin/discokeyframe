@@ -58,7 +58,7 @@ def gen_srt(framer, pad_lines=3, cap_seq = 1, offset=150, fps=30) -> str:
 
   return r
 
-with open('scripts/multiprompt.txt', 'r') as f:
+with open('scripts/multim2.txt', 'r') as f:
   framer.read_script(f.read())
 
 print(gen_srt(framer, pad_lines=3, cap_seq=1, offset=150, fps=30))

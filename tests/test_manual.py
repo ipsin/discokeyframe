@@ -32,5 +32,11 @@ class TestManualControls(unittest.TestCase):
       self.assertEqual(k.get_y_translates(), '1:(0.4)')
       self.assertEqual(k.get_z_translates(), '1:(0.3),100:(0.2)')
 
+    def test_seed(self):
+      k = Keyframer()
+      k.add_command(1, 'S', '500')
+      k.add_command(100, 'S', '200')
+      self.assertEqual(k.get_seeds(), {1: 500, 100: 200})
+
 if __name__ == '__main__':
     unittest.main()

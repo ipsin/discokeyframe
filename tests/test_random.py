@@ -110,7 +110,11 @@ class TestRandomControls(unittest.TestCase):
       00000 RC ZOOM 1.5 3.5
       00000 RC CYCLE 70-150
       00000 RC ON
+      00000 RS SEED 2345
+      00000 RS CYCLE 50-80
+      00000 RS ON
       00200 RC OFF
+      00200 RS OFF
     """)
     self.assertEqual(k.get_angles(), '0:(0.0002963),79:(0.0007268)')
     self.assertEqual(k.get_zooms(), '0:(2.84),79:(2.47)')
@@ -120,3 +124,4 @@ class TestRandomControls(unittest.TestCase):
     self.assertEqual(k.get_x_rotates(), '0:(0.00933),79:(-0.00803)')
     self.assertEqual(k.get_y_rotates(), '0:(-0.000593),79:(-0.00145)')
     self.assertEqual(k.get_z_rotates(), '0:(-0.0069),79:(-0.00676)')
+    self.assertEqual(k.get_seeds(), {0: 87277008, 65: 66962488, 134: 27357327, 185: 40186193})
