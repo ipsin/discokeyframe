@@ -108,19 +108,19 @@ class RandomPrompt(EventGenerator):
           for i,v in enumerate(self.prompt_fade):
             if len(self.prompt_fade) == i + 1:
               frame_prompt = list(self.background_prompts)
-              frame_prompt.append(f'{next_prompt}:{self.prompt_weight}')
+              frame_prompt.append(_prompt_weight(next_prompt, self.prompt_weight))
               framer.add_prompt(frame + v, frame_prompt)
             else:
               new_weight = int((self.prompt_weight * (i + 1)) / len(self.prompt_fade))
               frame_prompt = list(self.background_prompts)
-              frame_prompt.append(f'{next_prompt}:{new_weight}')
-              frame_prompt.append(f'{self.current_prompt}:{self.prompt_weight-new_weight}')
+              frame_prompt.append(_prompt_weight(next_prompt, new_weight))
+              frame_prompt.append(_prompt_weight(self.current_prompt, self.prompt_weight-new_weight))
               framer.add_prompt(frame + v, frame_prompt)
         else:
-          framer.add_prompt(frame, [f'{next_prompt}:{self.prompt_weight}'])
+          framer.add_prompt(frame, [_prompt_weight(next_prompt, self.prompt_weight)])
       else:
         frame_prompt = list(self.background_prompts)
-        frame_prompt.append(f'{next_prompt}:{self.prompt_weight}')
+        frame_prompt.append(_prompt_weight(next_prompt, self.prompt_weight))
         framer.add_prompt(frame, frame_prompt)
 
       self.current_prompt = next_prompt
@@ -143,6 +143,12 @@ class RandomPrompt(EventGenerator):
       return f'{mod} {subj} by {artist}, {styles}'
     else:
       return f'{mod} {subj} by {artist}'
+
+def _prompt_weight(prompt, weight):
+  if weight == 1:
+    return f'{prompt}'
+  else:
+    return f'{prompt}:{weight}'
 
 def _read_float_range(arg):
   i = arg.index(' ')

@@ -3,6 +3,7 @@ import unittest
 from discokeyframe import Keyframer
 
 class TestRandomControls(unittest.TestCase):
+  maxDiff = None
 
   def test_script(self):
     k = Keyframer()
@@ -91,9 +92,9 @@ class TestRandomControls(unittest.TestCase):
       00100 RP OFF
     """)
     self.assertEqual(k.get_prompts(), {
-      0: ['cat', 'vaporwave and flaming dragon and house by Beeple and Yayoi Kusama:1'],
-      44: ['vaporwave and flaming house and dragon by Yayoi Kusama and Beeple:1'],
-      89: ['flaming and tilt shift car and dragon by Yayoi Kusama and Beeple:1']
+      0: ['cat', 'vaporwave and flaming dragon and house by Beeple and Yayoi Kusama'],
+      44: ['vaporwave and flaming house and dragon by Yayoi Kusama and Beeple'],
+      89: ['flaming and tilt shift car and dragon by Yayoi Kusama and Beeple']
     }) 
 
   def test_script(self):
